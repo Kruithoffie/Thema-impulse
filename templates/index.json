@@ -125,7 +125,7 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Very popular at the moment",
+        "title": "Très populaire en ce moment",
         "home_featured_products": "robes",
         "per_row": 4,
         "rows": 1,
@@ -226,7 +226,7 @@
         "testimonial_3y6GkW"
       ],
       "settings": {
-        "title": "What customers have to say about Ava & Lily Toronto",
+        "title": "Ce que les clients disent d'Maison Éloise",
         "align_text": "center",
         "round_images": true,
         "color_background": "#ffffff",
