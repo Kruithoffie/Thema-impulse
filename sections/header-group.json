@@ -57,18 +57,21 @@
       "blocks": {
         "text_VGKLQR": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "LIMITED STOCK, ONCE IT'S GONE, IT'S GONE"
           }
         },
         "text_Y9bkwP": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "30-DAY RETURN GUARANTEE"
           }
         },
         "text_JxxYDD": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "ALWAYS FREE PREMIUM SHIPPING"
           }
