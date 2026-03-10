@@ -57,35 +57,32 @@
       "blocks": {
         "text_VGKLQR": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "LIMITED STOCK, ONCE IT'S GONE, IT'S GONE"
+            "text": "STOCK LIMITÉ, UNE FOIS ÉPUISÉ, C'EST FINI"
           }
         },
         "text_Y9bkwP": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "30-DAY RETURN GUARANTEE"
+            "text": "GARANTIE DE RETOUR DE 30 JOURS"
           }
         },
         "text_JxxYDD": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "ALWAYS FREE PREMIUM SHIPPING"
+            "text": "LIVRAISON PREMIUM TOUJOURS GRATUITE"
           }
         },
         "text_qCeRRG": {
           "type": "text",
           "settings": {
-            "text": "ORDER BEFORE 11:00 PM, SHIPPED THE NEXT DAY"
+            "text": "COMMANDEZ AVANT 23H00, EXPÉDIÉ LE LENDEMAIN"
           }
         },
         "text_KeRyka": {
           "type": "text",
           "settings": {
-            "text": "ANNIVERSARY SALE ENDS TONIGHT AT 11:59 PM"
+            "text": "LA VENTE ANNIVERSAIRE SE TERMINE CE SOIR À 23H59"
           }
         }
       },
