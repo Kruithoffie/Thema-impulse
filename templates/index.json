@@ -76,7 +76,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Very popular at the moment",
-        "home_featured_products": "jackets",
+        "home_featured_products": "robes",
         "per_row": 4,
         "rows": 1,
         "mobile_scrollable": true,
