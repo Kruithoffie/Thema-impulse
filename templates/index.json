@@ -1,1 +1,242 @@
-{"sections":{"slideshow":{"type":"slideshow","blocks":{"image_zmbmY7":{"type":"image","settings":{"top_subheading":"","title":"10-year anniversary","title_size":80,"subheading":"Up to 70% off","link":"","link_text":"","link_2":"","link_text_2":"","color_accent":"rgba(0,0,0,0)","text_align":"vertical-center horizontal-center","image":"shopify:\/\/shop_images\/premium_photo-1671658222149-b3534b0b5cbf.avif","image_mobile":"shopify:\/\/shop_images\/premium_photo-1671658222149-b3534b0b5cbf.avif","parallax_direction":"top","overlay_opacity":0}}},"block_order":["image_zmbmY7"],"settings":{"section_height":"450px","mobile_height":"auto","parallax":false,"style":"bars","autoplay":false,"autoplay_speed":7,"lazyload_images":true}},"rich-text":{"type":"rich-text","blocks":{"heading":{"type":"heading","settings":{"title":"Winter Collection"}},"text":{"type":"text","settings":{"enlarge_text":false,"text":"<p>At <strong>Ava & Lily Toronto<\/strong>, we are already embracing the brand-new Winter collection. We make sure to always provide high-quality products and stylish choices, so you can step into the season looking your best in the latest trends.<\/p><p>Browse our products below and explore the full collections.<\/p>"}}},"block_order":["heading","text"],"settings":{"align_text":"center","narrow_column":true,"divider":false}},"featured-collection":{"type":"featured-collection","settings":{"title":"Very popular at the moment","home_featured_products":"jackets","per_row":4,"rows":1,"mobile_scrollable":true,"view_all":true,"divider":false}},"featured_collections_cfHkr4":{"type":"featured-collections","blocks":{"collection_3c6EHD":{"type":"collection","settings":{"collection":"jackets","title":"","focal_point":"center center"}},"collection_AeLxPN":{"type":"collection","settings":{"collection":"cardigans","title":"","focal_point":"center center"}},"collection_XQTnUH":{"type":"collection","settings":{"collection":"sweaters","title":"","focal_point":"center center"}},"collection_ATJQQ3":{"type":"collection","settings":{"collection":"footwear","title":"","focal_point":"center center"}}},"block_order":["collection_3c6EHD","collection_AeLxPN","collection_XQTnUH","collection_ATJQQ3"],"name":"t:sections.featured-collections.presets.collection_list.name","settings":{"title":"MOST LOVED COLLECTIONS","divider":false,"per_row":4,"enable_gutter":true}},"580bc108-8f79-4c00-b080-103cccb091ef":{"type":"featured-collection","settings":{"title":"Spring Collection","home_featured_products":"spring-collection","per_row":5,"rows":2,"mobile_scrollable":true,"view_all":true,"divider":false}},"text_and_image_nfpwGg":{"type":"text-and-image","name":"t:sections.text-and-image.presets.image_with_text.name","settings":{"image":"shopify:\/\/shop_images\/Gemini_Generated_Image_on1uw8on1uw8on1u.png","image_mask":"none","image2_mask":"none","subtitle":"","title":"Meet Ava & Lily","text":"<p>At <strong>Ava & Lily Toronto<\/strong>, everything begins with a shared passion for timeless style and modern elegance.<br\/><br\/>From an early age, <strong>Ava and Lily<\/strong> have been inspired by fashion, creativity, and the confidence that comes from feeling your best. After studying Fashion Design and Business, they each gained experience working with various brands across Canada.<\/p><p>Years later, they decided to combine their vision and create their own boutique — one that celebrates effortless style and individuality. Today, <strong>Ava & Lily Toronto<\/strong> is more than just a fashion brand; it’s a community built around quality, comfort, and confidence.<\/p><p>Their mission remains simple:<br\/><br\/>to stay ahead of new trends, deliver high-quality pieces, and make every woman feel seen, valued, and stylish in her own unique way.<\/p>","button_label":"","button_link":"","button_style":"primary","align_text":"left","image_width":"50","layout":"right","divider":false,"top_padding":true,"bottom_padding":true,"lazyload_images":true}},"testimonials_phxWgR":{"type":"testimonials","blocks":{"testimonial_BCJ6aV":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>“The order arrived beautifully packaged and in perfect condition. You can really feel the quality of the fabric.”<\/p>","author":"Chloe R.","author_info":"Calgary – 12 hours ago"}},"testimonial_YkKYkq":{"type":"testimonial","settings":{"icon":"4-stars","testimonial":"<p>“Great service from Ava & Lily Toronto. The clothes fit perfectly and the personal touch really makes a difference.”<\/p>","author":"Olivia M.","author_info":"Montréal – 1 day ago"}},"testimonial_XWUWmn":{"type":"testimonial","settings":{"icon":"4-stars","testimonial":"<p>“I’m very impressed with the attention to detail. Everything came neatly wrapped, smelling fresh and ready to wear.”<\/p>","author":"Emma J.","author_info":"Toronto – 2 days ago"}},"testimonial_rQbajt":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>“Fantastic experience! The items are high quality and you can tell the store genuinely cares about its customers.”<\/p>","author":"Sophie L.","author_info":"Vancouver – 3 days ago"}},"testimonial_3y6GkW":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>“My package arrived safely and beautifully presented. Ava & Lily Toronto make online shopping feel truly personal.”<\/p>","author":"Ava B.","author_info":"Ottawa – 5 days ago"}}},"block_order":["testimonial_BCJ6aV","testimonial_YkKYkq","testimonial_XWUWmn","testimonial_rQbajt","testimonial_3y6GkW"],"settings":{"title":"What customers have to say about Ava & Lily Toronto","align_text":"center","round_images":true,"color_background":"#ffffff","color_text":"#1c1d1d"}}},"order":["slideshow","rich-text","featured-collection","featured_collections_cfHkr4","580bc108-8f79-4c00-b080-103cccb091ef","text_and_image_nfpwGg","testimonials_phxWgR"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "image_zmbmY7": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Célébrez notre 10ᵉ anniversaire",
+            "title_size": 80,
+            "subheading": "Jusqu'à 70 % de réduction",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_zmbmY7"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "title": "Winter Collection"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>At <strong>Ava & Lily Toronto</strong>, we are already embracing the brand-new Winter collection. We make sure to always provide high-quality products and stylish choices, so you can step into the season looking your best in the latest trends.</p><p>Browse our products below and explore the full collections.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Very popular at the moment",
+        "home_featured_products": "jackets",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "featured_collections_cfHkr4": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_3c6EHD": {
+          "type": "collection",
+          "settings": {
+            "collection": "jackets",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "collection_AeLxPN": {
+          "type": "collection",
+          "settings": {
+            "collection": "cardigans",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "collection_XQTnUH": {
+          "type": "collection",
+          "settings": {
+            "collection": "sweaters",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "collection_ATJQQ3": {
+          "type": "collection",
+          "settings": {
+            "collection": "footwear",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "collection_3c6EHD",
+        "collection_AeLxPN",
+        "collection_XQTnUH",
+        "collection_ATJQQ3"
+      ],
+      "name": "t:sections.featured-collections.presets.collection_list.name",
+      "settings": {
+        "title": "MOST LOVED COLLECTIONS",
+        "divider": false,
+        "per_row": 4,
+        "enable_gutter": true
+      }
+    },
+    "580bc108-8f79-4c00-b080-103cccb091ef": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Spring Collection",
+        "home_featured_products": "spring-collection",
+        "per_row": 5,
+        "rows": 2,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "text_and_image_nfpwGg": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Meet Ava & Lily",
+        "text": "<p>At <strong>Ava & Lily Toronto</strong>, everything begins with a shared passion for timeless style and modern elegance.<br/><br/>From an early age, <strong>Ava and Lily</strong> have been inspired by fashion, creativity, and the confidence that comes from feeling your best. After studying Fashion Design and Business, they each gained experience working with various brands across Canada.</p><p>Years later, they decided to combine their vision and create their own boutique — one that celebrates effortless style and individuality. Today, <strong>Ava & Lily Toronto</strong> is more than just a fashion brand; it’s a community built around quality, comfort, and confidence.</p><p>Their mission remains simple:<br/><br/>to stay ahead of new trends, deliver high-quality pieces, and make every woman feel seen, valued, and stylish in her own unique way.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "testimonials_phxWgR": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_BCJ6aV": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“The order arrived beautifully packaged and in perfect condition. You can really feel the quality of the fabric.”</p>",
+            "author": "Chloe R.",
+            "author_info": "Calgary – 12 hours ago"
+          }
+        },
+        "testimonial_YkKYkq": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "4-stars",
+            "testimonial": "<p>“Great service from Ava & Lily Toronto. The clothes fit perfectly and the personal touch really makes a difference.”</p>",
+            "author": "Olivia M.",
+            "author_info": "Montréal – 1 day ago"
+          }
+        },
+        "testimonial_XWUWmn": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "4-stars",
+            "testimonial": "<p>“I’m very impressed with the attention to detail. Everything came neatly wrapped, smelling fresh and ready to wear.”</p>",
+            "author": "Emma J.",
+            "author_info": "Toronto – 2 days ago"
+          }
+        },
+        "testimonial_rQbajt": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“Fantastic experience! The items are high quality and you can tell the store genuinely cares about its customers.”</p>",
+            "author": "Sophie L.",
+            "author_info": "Vancouver – 3 days ago"
+          }
+        },
+        "testimonial_3y6GkW": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“My package arrived safely and beautifully presented. Ava & Lily Toronto make online shopping feel truly personal.”</p>",
+            "author": "Ava B.",
+            "author_info": "Ottawa – 5 days ago"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_BCJ6aV",
+        "testimonial_YkKYkq",
+        "testimonial_XWUWmn",
+        "testimonial_rQbajt",
+        "testimonial_3y6GkW"
+      ],
+      "settings": {
+        "title": "What customers have to say about Ava & Lily Toronto",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#ffffff",
+        "color_text": "#1c1d1d"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "rich-text",
+    "featured-collection",
+    "featured_collections_cfHkr4",
+    "580bc108-8f79-4c00-b080-103cccb091ef",
+    "text_and_image_nfpwGg",
+    "testimonials_phxWgR"
+  ]
+}
