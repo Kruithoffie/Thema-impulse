@@ -642,15 +642,15 @@
         "question_gXfXEb": {
           "type": "question",
           "settings": {
-            "title": "How Can I Track My Order?",
-            "text": "<p>Once your order is confirmed, you will receive an email with your order number. To <strong>track your order!</strong></p>"
+            "title": "Comment puis-je suivre ma commande ?",
+            "text": "<p>Une fois votre commande confirmée, vous recevrez un e-mail avec votre numéro de commande. <strong>Pour suivre votre commande !</strong></p>"
           }
         },
         "question_t4YRrf": {
           "type": "question",
           "settings": {
-            "title": "What is the Return Policy?",
-            "text": "<p>You can return items within <strong>30 calendar days</strong> of receiving them.</p><ul><li>Return shipping costs are the buyer’s responsibility.</li><li>Approved refunds will be issued to your original payment method.</li></ul>"
+            "title": "Quelle est la politique de retour ?",
+            "text": "<p>Vous pouvez retourner les articles dans les 30 jours calendaires suivant leur réception. Les frais de retour sont à la charge de l'acheteur. Les remboursements approuvés seront effectués selon le mode de paiement initial.</p>"
           }
         },
         "question_fTgniy": {
@@ -668,7 +668,7 @@
       ],
       "name": "t:sections.faq.presets.faq.name",
       "settings": {
-        "title": "FAQs"
+        "title": "Questions fréquentes"
       }
     },
     "testimonials_XJpjRp": {
