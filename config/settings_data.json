@@ -9,7 +9,9 @@
  */
 {
   "current": {
+    "type_product_style": "body",
     "product_save_amount": false,
+    "product_grid_image_size": "square",
     "content_for_index": []
   }
 }
