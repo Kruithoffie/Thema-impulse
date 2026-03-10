@@ -656,8 +656,8 @@
         "question_fTgniy": {
           "type": "question",
           "settings": {
-            "title": "I Have an Issue With My Order. How Can I Contact You?",
-            "text": "<p>If you experience any issues or have questions, visit our <strong>Contact Page </strong>to connect with our support team. We’re here to assist you promptly!</p>"
+            "title": "J'ai un problème avec ma commande. Comment puis-je vous contacter ?",
+            "text": "<p>Si vous rencontrez des problèmes ou avez des questions, rendez-vous sur notre page Contact pour joindre notre équipe d'assistance. Nous sommes là pour vous aider rapidement !</p>"
           }
         }
       },
