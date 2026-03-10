@@ -396,6 +396,9 @@
     "checkout": {
       "shop_policies": {
         "privacy_policy": "En passant une commande, vous acceptez nos conditions générales."
+      },
+      "general": {
+        "pay_now_button_label": "Finaliser ma commande"
       }
     }
   }
