@@ -9,6 +9,7 @@
  */
 {
   "current": {
+    "color_drawer_background": "#ffffff",
     "type_product_style": "body",
     "product_save_amount": false,
     "product_grid_image_size": "square",
