@@ -78,7 +78,7 @@
         "collection_3c6EHD": {
           "type": "collection",
           "settings": {
-            "collection": "jackets",
+            "collection": "robes",
             "title": "",
             "focal_point": "center center"
           }
@@ -86,7 +86,7 @@
         "collection_AeLxPN": {
           "type": "collection",
           "settings": {
-            "collection": "cardigans",
+            "collection": "blouses",
             "title": "",
             "focal_point": "center center"
           }
