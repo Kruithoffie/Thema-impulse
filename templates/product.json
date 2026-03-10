@@ -183,64 +183,64 @@
         "product_video_style": "muted"
       }
     },
-    "testimonials_Pi8iaU": {
+    "testimonials_qNUFBi": {
       "type": "testimonials",
       "blocks": {
-        "testimonial_bjypaJ": {
+        "testimonial_hzdxjh": {
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>“The order arrived beautifully packaged and in perfect condition. You can really feel the quality of the fabric.”</p>",
-            "author": "Chloe R.",
-            "author_info": "Calgary – 12 hours ago"
+            "testimonial": "<p>“La commande est arrivée dans un emballage soigné et en parfait état. On sent vraiment la qualité du tissu..”</p>",
+            "author": "Sophie Laurent.",
+            "author_info": "Paris – Il y a 12 heures"
           }
         },
-        "testimonial_PjrJ4M": {
+        "testimonial_xbpBM3": {
           "type": "testimonial",
           "settings": {
             "icon": "4-stars",
-            "testimonial": "<p>“Great service from Ava & Lily Toronto. The clothes fit perfectly and the personal touch really makes a difference.”</p>",
-            "author": "Olivia M.",
-            "author_info": "Montréal – 1 day ago"
+            "testimonial": "<p>“Excellent service de la part d'Maison Éloise. Les vêtements sont parfaitement ajustés et la touche personnelle fait vraiment la différence.”</p>",
+            "author": "Camille Dubois.",
+            "author_info": "Lyon – Il y a 1 jour"
           }
         },
-        "testimonial_RAJkaT": {
+        "testimonial_PnVxcd": {
           "type": "testimonial",
           "settings": {
             "icon": "4-stars",
-            "testimonial": "<p>“I’m very impressed with the attention to detail. Everything came neatly wrapped, smelling fresh and ready to wear.”</p>",
-            "author": "Emma J.",
-            "author_info": "Toronto – 2 days ago"
+            "testimonial": "<p>« Je suis très impressionné par le souci du détail. Tout était soigneusement emballé, sentait bon et était prêt à être porté. »</p>",
+            "author": "Chloé Moreau.",
+            "author_info": "Marseille – Il y a 2 jours"
           }
         },
-        "testimonial_ypXPUz": {
+        "testimonial_49R6q3": {
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>“Fantastic experience! The items are high quality and you can tell the store genuinely cares about its customers.”</p>",
-            "author": "Sophie L.",
-            "author_info": "Vancouver – 3 days ago"
+            "testimonial": "<p>“Une expérience fantastique ! Les articles sont de grande qualité et on sent que le magasin se soucie vraiment de ses clients.”</p>",
+            "author": "Élodie Petit.",
+            "author_info": "Toulouse – Il y a 3 jours"
           }
         },
-        "testimonial_RgLVPh": {
+        "testimonial_p4q3kc": {
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>“My package arrived safely and beautifully presented. Ava & Lily Toronto make online shopping feel truly personal.”</p>",
-            "author": "Ava B.",
-            "author_info": "Ottawa – 5 days ago"
+            "testimonial": "<p>“Mon colis est arrivé en bon état et était très joliment présenté. Maison Éloise rend les achats en ligne vraiment personnalisés.”</p>",
+            "author": "Claire Rousseau.",
+            "author_info": "Bordeaux – Il y a 5 jours"
           }
         }
       },
       "block_order": [
-        "testimonial_bjypaJ",
-        "testimonial_PjrJ4M",
-        "testimonial_RAJkaT",
-        "testimonial_ypXPUz",
-        "testimonial_RgLVPh"
+        "testimonial_hzdxjh",
+        "testimonial_xbpBM3",
+        "testimonial_PnVxcd",
+        "testimonial_49R6q3",
+        "testimonial_p4q3kc"
       ],
       "settings": {
-        "title": "What customers have to say about Ava & Lily Toronto",
+        "title": "Ce que les clients disent d'Maison Éloise",
         "align_text": "center",
         "round_images": true,
         "color_background": "#ffffff",
@@ -833,7 +833,7 @@
   "order": [
     "timer_bar_7fPWPb",
     "main",
-    "testimonials_Pi8iaU",
+    "testimonials_qNUFBi",
     "featured_collection_zRnJ6y",
     "text_and_image_HiNtAW",
     "advanced_content_WwcBt8",
