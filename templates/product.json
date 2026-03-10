@@ -259,15 +259,17 @@
         "divider": false
       }
     },
-    "text_and_image_jCRHez": {
+    "text_and_image_HiNtAW": {
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
+        "image": "shopify://shop_images/hf_20260310_230039_d91cfff0-ce71-4737-8d4e-fac40597c242.png",
         "image_mask": "none",
+        "image2": "shopify://shop_images/hf_20260310_225724_d0417bf8-d047-4c77-90f4-762ae1981fe9.png",
         "image2_mask": "none",
         "subtitle": "",
-        "title": "Meet Ava & Lily",
-        "text": "<p>At <strong>Ava & Lily Toronto</strong>, everything begins with a shared passion for timeless style and modern elegance.<br/><br/>From an early age, <strong>Ava and Lily</strong> have been inspired by fashion, creativity, and the confidence that comes from feeling your best. After studying Fashion Design and Business, they each gained experience working with various brands across Canada.</p><p>Years later, they decided to combine their vision and create their own boutique — one that celebrates effortless style and individuality. Today, <strong>Ava & Lily Toronto</strong> is more than just a fashion brand; it’s a community built around quality, comfort, and confidence.</p><p>Their mission remains simple:<br/><br/>to stay ahead of new trends, deliver high-quality pieces, and make every woman feel seen, valued, and stylish in her own unique way.</p>",
+        "title": "Rencontrez Maison Éloise",
+        "text": "<p>Chez <strong>Maison Éloise</strong>, tout commence par une passion commune pour le style intemporel et l'élégance moderne.<br/><br/>Dès leur plus jeune âge, <strong>Maison Éloise</strong> ont été inspirées par la mode, la créativité et la confiance en soi que procure le fait de se sentir bien dans sa peau. Après avoir étudié le stylisme et le commerce, elles ont chacune acquis de l'expérience en travaillant avec différentes marques à travers la France.</p><p>Des années plus tard, elles ont décidé d'unir leurs visions et de créer leur propre boutique, qui célèbre le style naturel et l'individualité. Aujourd'hui, <strong>Maison Éloise</strong> est plus qu'une simple marque de mode : c'est une communauté fondée sur la qualité, le confort et la confiance en soi.</p><p>Leur mission reste simple :<br/><br/>pour rester à la pointe des nouvelles tendances, proposer des articles de grande qualité et permettre à chaque femme de se sentir remarquée, valorisée et élégante à sa manière.</p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -833,7 +835,7 @@
     "main",
     "testimonials_Pi8iaU",
     "featured_collection_zRnJ6y",
-    "text_and_image_jCRHez",
+    "text_and_image_HiNtAW",
     "advanced_content_WwcBt8",
     "videosglider_UKWUBw",
     "testimonials_slider_dKBxHe",
