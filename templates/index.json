@@ -17,7 +17,7 @@
           "settings": {
             "top_subheading": "",
             "title": "Célébrez notre 10ᵉ anniversaire",
-            "title_size": 80,
+            "title_size": 60,
             "subheading": "Jusqu'à 70 % de réduction",
             "link": "",
             "link_text": "",
@@ -25,6 +25,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/hf_20260310_212512_e424aaaf-6647-454c-bb67-db39efd4341b.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -35,7 +36,7 @@
       ],
       "settings": {
         "section_height": "450px",
-        "mobile_height": "auto",
+        "mobile_height": "400px",
         "parallax": false,
         "style": "bars",
         "autoplay": false,
