@@ -72,18 +72,6 @@
         "divider": false
       }
     },
-    "featured-collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Very popular at the moment",
-        "home_featured_products": "robes",
-        "per_row": 4,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
-      }
-    },
     "featured_collections_cfHkr4": {
       "type": "featured-collections",
       "blocks": {
@@ -132,6 +120,18 @@
         "divider": false,
         "per_row": 4,
         "enable_gutter": true
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Very popular at the moment",
+        "home_featured_products": "robes",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
       }
     },
     "580bc108-8f79-4c00-b080-103cccb091ef": {
@@ -235,8 +235,8 @@
   "order": [
     "slideshow",
     "rich-text",
-    "featured-collection",
     "featured_collections_cfHkr4",
+    "featured-collection",
     "580bc108-8f79-4c00-b080-103cccb091ef",
     "text_and_image_nfpwGg",
     "testimonials_phxWgR"
