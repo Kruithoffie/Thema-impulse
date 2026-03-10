@@ -105,6 +105,7 @@
         "image_YkgVKP": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/hf_20260310_212512_4ba8d623-767c-443d-b3d8-71b6f0c2ac00.jpg",
             "link": "",
             "width": "33%",
             "alignment": "center"
@@ -113,7 +114,7 @@
         "liquid_DhcEHK": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>ANNIVERSARY SALE – UP TO 70% OFF</h2>\n<p>It’s celebration time at Ava & Lily Toronto! 🎉</p>\n<p>To mark our 10th anniversary, we’re bringing you exclusive discounts of up to 70% off. Discover timeless fashion made for comfort, confidence, and effortless everyday style.</p>\n\n<p>These anniversary offers are only here for a limited time — once they’re gone, they won’t be back.</p>\n\n<p>Shop now and celebrate 10 years of style with us.</p>\n\n<p>— Ava & Lily Toronto</p>",
+            "code": "<h2>VENTE ANNIVERSAIRE – JUSQU’À -70%</h2>\n\n<p>C’est le moment de célébrer chez Maison Éloise ! 🎉</p>\n\n<p>Pour marquer notre 10ᵉ anniversaire, nous vous proposons des réductions exclusives allant jusqu’à -70 %. Découvrez une mode intemporelle conçue pour le confort, la confiance et un style quotidien sans effort.</p>\n\n<p>Ces offres anniversaire sont disponibles pour une durée limitée — une fois terminées, elles ne reviendront pas.</p>\n\n<p>Profitez-en dès maintenant et célébrez 10 ans de style avec nous.</p>\n\n<p>— Maison Éloise</p>",
             "width": "50%",
             "alignment": "center"
           }
