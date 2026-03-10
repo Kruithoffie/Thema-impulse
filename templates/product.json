@@ -747,12 +747,12 @@
             "text": "<p>Nous offrons un délai de retour de 30 jours. N'hésitez pas à retourner tout article dans les 30 jours si vous n'êtes pas entièrement satisfait.</p>"
           }
         },
-        "text_block_f3GT7y": {
+        "text_block_y8JL7C": {
           "type": "text_block",
           "settings": {
             "icon": "truck",
-            "title": "FREE DELIVERY",
-            "text": "<p>We offer <strong>free shipping</strong> incl. Track & Trace across Canada!</p>"
+            "title": "LIVRAISON GRATUITE",
+            "text": "<p>Nous offrons la livraison gratuite, suivi inclus. </p>"
           }
         },
         "text_block_pgeXmX": {
@@ -766,7 +766,7 @@
       },
       "block_order": [
         "text_block_VX9WRH",
-        "text_block_f3GT7y",
+        "text_block_y8JL7C",
         "text_block_pgeXmX"
       ],
       "settings": {
