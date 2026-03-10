@@ -116,7 +116,7 @@
       ],
       "name": "t:sections.featured-collections.presets.collection_list.name",
       "settings": {
-        "title": "MOST LOVED COLLECTIONS",
+        "title": "Les collections les plus appréciées",
         "divider": false,
         "per_row": 4,
         "enable_gutter": true
