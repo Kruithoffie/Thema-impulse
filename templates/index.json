@@ -37,7 +37,7 @@
       ],
       "settings": {
         "section_height": "450px",
-        "mobile_height": "400px",
+        "mobile_height": "500px",
         "parallax": false,
         "style": "bars",
         "autoplay": false,
