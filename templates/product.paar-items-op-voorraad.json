@@ -1,0 +1,863 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "timer_bar_7fPWPb": {
+      "type": "timer-bar",
+      "blocks": {
+        "countdown_jRdLQE": {
+          "type": "countdown",
+          "disabled": true,
+          "settings": {
+            "timer_text_color": "#ffffff",
+            "timer_font_size": 24
+          }
+        },
+        "text_XH8rQG": {
+          "type": "text",
+          "settings": {
+            "message": "La vente anniversaire se termine à 23h59",
+            "text_color": "#b59600",
+            "font_size": 16
+          }
+        }
+      },
+      "block_order": [
+        "countdown_jRdLQE",
+        "text_XH8rQG"
+      ],
+      "disabled": true,
+      "settings": {
+        "bg_color": "#000000",
+        "bar_height": 41
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "selluxe_tp_stars_PKy6qi": {
+          "type": "selluxe_tp_stars",
+          "settings": {
+            "tp_star_color": "#00b77f",
+            "tp_rating": 4.5,
+            "tp_reviews": 0,
+            "review_text": "4,5 sur 3 172+"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "custom_XFhatC": {
+          "type": "custom",
+          "disabled": true,
+          "settings": {
+            "code": "<div class=\"cus-gua-div\" style=\"margin:20px 0; display:flex; flex-direction:column; gap:10px;\">\n\n  <!-- Free Shipping with Canada Post -->\n  <div class=\"gua-inner\" style=\"display:flex; align-items:center; gap:8px;\">\n    <div class=\"gua-img-div\">\n      <img class=\"cus-gua-img\" \n           src=\"https://img.icons8.com/?size=100&id=7493&format=png&color=000000\" \n           style=\"width:21px; height:21px;\">\n    </div>\n    <p class=\"cus-gua-p\" style=\"line-height:21px; color:#000000; margin:0; font-size:14px;\">\n      Free Shipping with Canada Post\n    </p>\n  </div>\n\n  <!-- 30-Day Money Back -->\n  <div class=\"gua-inner\" style=\"display:flex; align-items:center; gap:8px;\">\n    <div class=\"gua-img-div\">\n      <img class=\"cus-gua-img\" \n           src=\"https://img.icons8.com/?size=100&id=ezRZ6SYrtsrT&format=png&color=000000\" \n           style=\"width:21px; height:21px;\">\n    </div>\n    <p class=\"cus-gua-p\" style=\"line-height:21px; color:#000000; margin:0; font-size:14px;\">\n      30-Day Money-Back Guarantee\n    </p>\n  </div>\n\n  <!-- Secure Payments -->\n  <div class=\"gua-inner\" style=\"display:flex; align-items:center; gap:8px;\">\n    <div class=\"gua-img-div\">\n      <img class=\"cus-gua-img\"\n           src=\"https://img.icons8.com/?size=100&id=WZ9htrr1RK9U&format=png&color=000000\"\n           style=\"width:21px; height:21px;\">\n    </div>\n    <p class=\"cus-gua-p\" style=\"line-height:21px; color:#000000; margin:0; font-size:14px;\">\n      Secure Payments with Creditcard\n    </p>\n  </div>\n\n</div>"
+          }
+        },
+        "custom_7K6hwN": {
+          "type": "custom",
+          "settings": {
+            "code": "<div class=\"cus-gua-div\" style=\"margin:20px 0; display:flex; flex-direction:column; gap:10px;\">\n\n  <!-- Livraison gratuite -->\n  <div class=\"gua-inner\" style=\"display:flex; align-items:center; gap:8px;\">\n    <div class=\"gua-img-div\">\n      <img class=\"cus-gua-img\" \n           src=\"https://img.icons8.com/?size=100&id=7493&format=png&color=000000\" \n           style=\"width:21px; height:21px;\">\n    </div>\n    <p class=\"cus-gua-p\" style=\"line-height:21px; color:#000000; margin:0; font-size:14px;\">\n      Livraison gratuite, suivi inclus\n    </p>\n  </div>\n\n  <!-- Garantie remboursement -->\n  <div class=\"gua-inner\" style=\"display:flex; align-items:center; gap:8px;\">\n    <div class=\"gua-img-div\">\n      <img class=\"cus-gua-img\" \n           src=\"https://img.icons8.com/?size=100&id=ezRZ6SYrtsrT&format=png&color=000000\" \n           style=\"width:21px; height:21px;\">\n    </div>\n    <p class=\"cus-gua-p\" style=\"line-height:21px; color:#000000; margin:0; font-size:14px;\">\n      Garantie de remboursement de 30 jours\n    </p>\n  </div>\n\n  <!-- Entreprise familiale -->\n  <div class=\"gua-inner\" style=\"display:flex; align-items:center; gap:8px;\">\n    <div class=\"gua-img-div\">\n      <img \n        src=\"https://flagcdn.com/w40/fr.png\"\n        style=\"width:21px; height:14px; border-radius:3px; object-fit:cover;\">\n    </div>\n    <p class=\"cus-gua-p\" style=\"line-height:21px; color:#000000; margin:0; font-size:14px;\">\n      Entreprise familiale depuis 2016\n    </p>\n  </div>\n\n</div>"
+          }
+        },
+        "custom_C8JCa3": {
+          "type": "custom",
+          "settings": {
+            "code": "<div class=\"product-block selluxe-sales-point selluxe_sales_point_kVd34U\"><style data-shopify=\"\">.selluxe_sales_point_kVd34U {\n      display: flex;\n      align-items: center;\n      gap: 10px;\n      width: 100%;\n      padding: 0px 0px;\n      background: ;\n      margin: 0px 0 25px;\n      border-radius: 0px;\n    }\n    .selluxe_sales_point_kVd34U .icon {\n      width: 24px;\n      height: 24px;\n      position: relative;\n      display: flex;\n      align-items: center;\n      justify-content: center;\n    }\n    .selluxe_sales_point_kVd34U .icon .dot-icon {\n      position: absolute;\n    }\n    .selluxe_sales_point_kVd34U .icon .dot-icon.dot-animated {\n      animation: pulse 2s infinite;\n    }\n    .selluxe_sales_point_kVd34U .text span {\n      font-size: 14px;\n      color: #000000;\n      line-height: 150%;\n    }\n    \n    @keyframes pulse {\n      from {\n        transform: scale(1);\n        opacity: 1;\n      } \n      to {\n        transform: scale(2.4);\n        opacity: 0;\n      }\n    }</style><div class=\"icon\"><style data-shopify=\"\">.selluxe_sales_point_kVd34U .icon {\n          color: #ea0404;\n        }</style><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"10\" height=\"10\" viewBox=\"0 0 24 24\" fill=\"#ea0404\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"dot-icon dot-animated\"><circle cx=\"12\" cy=\"12\" r=\"10\"></circle></svg>\n      <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"10\" height=\"10\" viewBox=\"0 0 24 24\" fill=\"#ea0404\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"dot-icon\"><circle cx=\"12\" cy=\"12\" r=\"10\"></circle></svg></div>\n  <div class=\"text\">\n    <span>Plus que 5 en stock</span>\n  </div>\n\n  <script>\n      const selluxe_sales_point_kVd34U_deliveryDays = 1; \n      const selluxe_sales_point_kVd34U_currentDate = new Date();\n      selluxe_sales_point_kVd34U_currentDate.setDate(selluxe_sales_point_kVd34U_currentDate.getDate() + selluxe_sales_point_kVd34U_deliveryDays);\n      \n      const selluxe_sales_point_kVd34U_day = selluxe_sales_point_kVd34U_currentDate.getDate();\n      let selluxe_sales_point_kVd34U_formatDay = '';\n      if(selluxe_sales_point_kVd34U_day > 10) {\n        const day = selluxe_sales_point_kVd34U_day % 10;\n        if(day === 1) {\n          selluxe_sales_point_kVd34U_formatDay = selluxe_sales_point_kVd34U_day + 'st';\n        }\n        if(day === 2) {\n          selluxe_sales_point_kVd34U_formatDay = selluxe_sales_point_kVd34U_day + 'nd';\n        }\n        if(day === 3) {\n          selluxe_sales_point_kVd34U_formatDay = selluxe_sales_point_kVd34U_day + 'rd';\n        }\n        if(day > 3) {\n          selluxe_sales_point_kVd34U_formatDay = selluxe_sales_point_kVd34U_day + 'th';\n        }\n        \n      } else {\n        if(selluxe_sales_point_kVd34U_day === 1) {\n          selluxe_sales_point_kVd34U_formatDay = selluxe_sales_point_kVd34U_day + 'st';\n        }\n        if(selluxe_sales_point_kVd34U_day === 2) {\n          selluxe_sales_point_kVd34U_formatDay = selluxe_sales_point_kVd34U_day + 'nd';\n        }\n        if(selluxe_sales_point_kVd34U_day === 3) {\n          selluxe_sales_point_kVd34U_formatDay = selluxe_sales_point_kVd34U_day + 'rd';\n        }\n        if(selluxe_sales_point_kVd34U_day > 3) {\n          selluxe_sales_point_kVd34U_formatDay = selluxe_sales_point_kVd34U_day + 'th';\n        }\n      }\n      \n      const selluxe_sales_point_kVd34U_year = selluxe_sales_point_kVd34U_currentDate.getFullYear();\n  \n      const selluxe_sales_point_kVd34U_monthOptions = { month: 'long' };\n      const selluxe_sales_point_kVd34U_monthName = selluxe_sales_point_kVd34U_currentDate.toLocaleString('en-US', selluxe_sales_point_kVd34U_monthOptions);\n  \n      const selluxe_sales_point_kVd34U_dayIndex = selluxe_sales_point_kVd34U_currentDate.getDay();\n      const selluxe_sales_point_kVd34U_weekdays = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];\n      const selluxe_sales_point_kVd34U_weekdayName = selluxe_sales_point_kVd34U_weekdays[selluxe_sales_point_kVd34U_dayIndex];\n\n      const selluxe_sales_point_kVd34U_text = document.querySelector('.selluxe_sales_point_kVd34U .text span');\n      let selluxe_sales_point_kVd34U_newText = selluxe_sales_point_kVd34U_text.innerHTML\n\n      selluxe_sales_point_kVd34U_newText = selluxe_sales_point_kVd34U_newText.replace('[weekday]', selluxe_sales_point_kVd34U_weekdayName);\n      selluxe_sales_point_kVd34U_newText = selluxe_sales_point_kVd34U_newText.replace('[day]', selluxe_sales_point_kVd34U_formatDay);\n      selluxe_sales_point_kVd34U_newText = selluxe_sales_point_kVd34U_newText.replace('[year]', selluxe_sales_point_kVd34U_year);\n      selluxe_sales_point_kVd34U_newText = selluxe_sales_point_kVd34U_newText.replace('[month]', selluxe_sales_point_kVd34U_monthName);\n\n      selluxe_sales_point_kVd34U_text.innerHTML = selluxe_sales_point_kVd34U_newText;\n    </script>\n</div>"
+          }
+        },
+        "a87f6976-fdca-403c-9377-eb85cc84bccd": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": true
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "custom_GLi9Ha": {
+          "type": "custom",
+          "settings": {
+            "code": "<div class=\"badgesContainer\" style=\"display: block; text-align: center;\">\n  <div class=\"badgeContainer\" style=\"height: 54px; width: 54px; display: inline-block; position: relative;\">\n    <img src=\"https://trust.conversionbear.com/../static/badges/mastercard_color_card.svg\" class=\"imageContainer\" style=\"height: 80%; width: 80%; position: absolute; top: 50%; left: 50%; right: -50%; transform: translate(-50%, -50%);\">\n  </div>\n  <div class=\"badgeContainer\" style=\"height: 54px; width: 54px; display: inline-block; position: relative;\">\n    <img src=\"https://trust.conversionbear.com/../static/badges/visa_1_color_card.svg\" class=\"imageContainer\" style=\"height: 80%; width: 80%; position: absolute; top: 50%; left: 50%; right: -50%; transform: translate(-50%, -50%);\">\n  </div>\n  <div class=\"badgeContainer\" style=\"height: 54px; width: 54px; display: inline-block; position: relative;\">\n    <img src=\"https://trust.conversionbear.com/../static/badges/applepay_color_card.svg\" class=\"imageContainer\" style=\"height: 80%; width: 80%; position: absolute; top: 50%; left: 50%; right: -50%; transform: translate(-50%, -50%);\">\n  </div>\n  <div class=\"badgeContainer\" style=\"height: 54px; width: 54px; display: inline-block; position: relative;\">\n    <img src=\"https://trust.conversionbear.com/../static/badges/googlepay_color_card.svg\" class=\"imageContainer\" style=\"height: 80%; width: 80%; position: absolute; top: 50%; left: 50%; right: -50%; transform: translate(-50%, -50%);\">\n  </div>\n  <div class=\"badgeContainer\" style=\"height: 54px; width: 54px; display: inline-block; position: relative;\">\n    <img src=\"https://trust.conversionbear.com/../static/badges/maestro_color_card.svg\" class=\"imageContainer\" style=\"height: 80%; width: 80%; position: absolute; top: 50%; left: 50%; right: -50%; transform: translate(-50%, -50%);\">\n  </div>\n  <div class=\"badgeContainer\" style=\"height: 54px; width: 54px; display: inline-block; position: relative;\">\n    <img src=\"https://trust.conversionbear.com/../static/badges/amex_color_card.svg\" class=\"imageContainer\" style=\"height: 80%; width: 80%; position: absolute; top: 50%; left: 50%; right: -50%; transform: translate(-50%, -50%);\">\n  </div>\n</div>"
+          }
+        },
+        "ea05bd8c-ce3b-4efc-9331-8543471e68d9": {
+          "type": "custom",
+          "settings": {
+            "code": "<div class=\"product-block\">\n  <div class=\"stock-update\">\n    <p style=\"background-color: #f9ece9; padding: 15px; border-radius: 5px; color: #b04135; font-size: 13px;\">\n      <strong>MISE À JOUR DES SOLDES :</strong> En raison de la forte demande pendant notre vente d'anniversaire, il ne reste plus qu'un nombre limité d'articles !\n    </p>\n  </div>\n</div>"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "6fbafccd-e300-4684-a364-9c3fb056e3f9": {
+          "type": "tab",
+          "settings": {
+            "title": "Garantie de retour de 30 jours",
+            "content": "<p>Si notre produit ne répond pas à vos attentes, vous pouvez le retourner dans les <strong>30 jours suivant sa réception.</strong><br/><br/>Avant de retourner la marchandise, veuillez contacter notre service clientèle à l'adresse <strong>info@maisoneloise.fr</strong> et nous indiquer la raison du retour afin que nous puissions traiter votre demande correctement.</p>",
+            "page": ""
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "settings": {
+            "title": "Livraison gratuite",
+            "content": "<p>Nous offrons la livraison gratuite partout au Canada pour toutes les commandes. Nous expédions nos colis avec un code de suivi afin que vous puissiez toujours suivre votre commande. Vous recevrez le code de suivi par courriel dans les 1 à 24 heures suivant votre commande.</p>",
+            "page": ""
+          }
+        },
+        "f9420f3c-75d6-4aa6-96b3-4ed76131dc4e": {
+          "type": "tab",
+          "settings": {
+            "title": "3 172+ CLIENTS SATISFAITS",
+            "content": "<p>Maison Éloise compte plus de 3 172 clients satisfaits qui nous attribuent une note de 4,7/5,0.</p>",
+            "page": ""
+          }
+        },
+        "selluxe_followers_T9XW6r": {
+          "type": "selluxe_followers",
+          "settings": {
+            "profile_picture_1": "shopify://shop_images/images.webp",
+            "reviewers": "Léna Mahfouf",
+            "show_verified": true,
+            "add_text": "et <strong>3.1k+</strong> les autres femmes aiment <strong>Maison Éloise</strong>",
+            "font_size": 14,
+            "image_size": 40,
+            "horizontal_alignment": "flex-start"
+          }
+        },
+        "kiwi_size_chart_recommender_kiwi_sizing_Y3qVdK": {
+          "type": "shopify://apps/kiwi-size-chart-recommender/blocks/kiwiSizing/b7369922-bf15-44ce-a121-a22a8fcbc4b0",
+          "settings": {
+            "fallbackToBlockPosition": false,
+            "waitForElementSelector": "",
+            "waitForElementDelay": 5
+          }
+        }
+      },
+      "block_order": [
+        "selluxe_tp_stars_PKy6qi",
+        "price",
+        "separator",
+        "custom_XFhatC",
+        "custom_7K6hwN",
+        "custom_C8JCa3",
+        "a87f6976-fdca-403c-9377-eb85cc84bccd",
+        "buy_buttons",
+        "custom_GLi9Ha",
+        "ea05bd8c-ce3b-4efc-9331-8543471e68d9",
+        "description",
+        "6fbafccd-e300-4684-a364-9c3fb056e3f9",
+        "tab",
+        "f9420f3c-75d6-4aa6-96b3-4ed76131dc4e",
+        "selluxe_followers_T9XW6r",
+        "kiwi_size_chart_recommender_kiwi_sizing_Y3qVdK"
+      ],
+      "custom_css": [
+        ".badge {display: none;}"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "testimonials_qNUFBi": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_hzdxjh": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“La commande est arrivée dans un emballage soigné et en parfait état. On sent vraiment la qualité du tissu..”</p>",
+            "author": "Sophie Laurent.",
+            "author_info": "Paris – Il y a 12 heures"
+          }
+        },
+        "testimonial_xbpBM3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "4-stars",
+            "testimonial": "<p>“Excellent service de la part d'Maison Éloise. Les vêtements sont parfaitement ajustés et la touche personnelle fait vraiment la différence.”</p>",
+            "author": "Camille Dubois.",
+            "author_info": "Lyon – Il y a 1 jour"
+          }
+        },
+        "testimonial_PnVxcd": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "4-stars",
+            "testimonial": "<p>« Je suis très impressionné par le souci du détail. Tout était soigneusement emballé, sentait bon et était prêt à être porté. »</p>",
+            "author": "Chloé Moreau.",
+            "author_info": "Marseille – Il y a 2 jours"
+          }
+        },
+        "testimonial_49R6q3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“Une expérience fantastique ! Les articles sont de grande qualité et on sent que le magasin se soucie vraiment de ses clients.”</p>",
+            "author": "Élodie Petit.",
+            "author_info": "Toulouse – Il y a 3 jours"
+          }
+        },
+        "testimonial_p4q3kc": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“Mon colis est arrivé en bon état et était très joliment présenté. Maison Éloise rend les achats en ligne vraiment personnalisés.”</p>",
+            "author": "Claire Rousseau.",
+            "author_info": "Bordeaux – Il y a 5 jours"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_hzdxjh",
+        "testimonial_xbpBM3",
+        "testimonial_PnVxcd",
+        "testimonial_49R6q3",
+        "testimonial_p4q3kc"
+      ],
+      "settings": {
+        "title": "Ce que les clients disent d'Maison Éloise",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#ffffff",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "featured_collection_zRnJ6y": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Combinez et bénéficiez d'une remise supplémentaire pouvant atteindre 25%",
+        "home_featured_products": "robes",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "text_and_image_HiNtAW": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/hf_20260310_230039_d91cfff0-ce71-4737-8d4e-fac40597c242.png",
+        "image_mask": "none",
+        "image2": "shopify://shop_images/hf_20260310_225724_d0417bf8-d047-4c77-90f4-762ae1981fe9.png",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Rencontrez Maison Éloise",
+        "text": "<p>Chez <strong>Maison Éloise</strong>, tout commence par une passion commune pour le style intemporel et l'élégance moderne.<br/><br/>Dès leur plus jeune âge, <strong>Maison Éloise</strong> ont été inspirées par la mode, la créativité et la confiance en soi que procure le fait de se sentir bien dans sa peau. Après avoir étudié le stylisme et le commerce, elles ont chacune acquis de l'expérience en travaillant avec différentes marques à travers la France.</p><p>Des années plus tard, elles ont décidé d'unir leurs visions et de créer leur propre boutique, qui célèbre le style naturel et l'individualité. Aujourd'hui, <strong>Maison Éloise</strong> est plus qu'une simple marque de mode : c'est une communauté fondée sur la qualité, le confort et la confiance en soi.</p><p>Leur mission reste simple :<br/><br/>pour rester à la pointe des nouvelles tendances, proposer des articles de grande qualité et permettre à chaque femme de se sentir remarquée, valorisée et élégante à sa manière.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_WwcBt8": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_M6UC4L": {
+          "type": "liquid",
+          "settings": {
+            "code": "<style>\n.divorce-banner {\n  background: linear-gradient(135deg, #ffeaea, #fff8f8);\n  border: 1px solid #ffb3b3;\n  padding: 24px;\n  border-radius: 12px;\n  margin: 50px 0;\n  font-family: 'Arial', sans-serif;\n  box-shadow: 0 4px 15px rgba(0,0,0,0.05);\n  text-align: center;\n  max-width: 700px;\n  margin-left: auto;\n  margin-right: auto;\n}\n\n.divorce-banner h3 {\n  font-size: 22px;\n  color: #b30000;\n  margin-bottom: 12px;\n  font-family: 'Georgia', serif;\n}\n\n.divorce-banner p {\n  font-size: 15px;\n  color: #333;\n  margin: 8px 0;\n  line-height: 1.6;\n}\n\n.divorce-banner .icon {\n  font-size: 36px;\n  margin-bottom: 12px;\n}\n</style>\n\n<div class=\"divorce-banner\">\n  <div class=\"icon\">💔</div>\n  <h3>Official Business Liquidation Notice</h3>\n  <p>Due to a divorce settlement, this store is being permanently closed.</p>\n  <p>All remaining inventory is part of a court-enforced asset liquidation.</p>\n  <p><strong>Store closure scheduled for <span id=\"closure-date\"></span>.</strong></p>\n  <p>Once sold out, these pieces will never return.</p>\n</div>\n\n<script>\n  const closureDate = new Date();\n  closureDate.setDate(closureDate.getDate() + 3);\n\n  const options = { year: 'numeric', month: 'long', day: 'numeric' };\n  document.getElementById(\"closure-date\").textContent = closureDate.toLocaleDateString('en-US', options);\n</script>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_M6UC4L"
+      ],
+      "disabled": true,
+      "name": "t:sections.advanced-content.presets.custom_content.name",
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "videosglider_UKWUBw": {
+      "type": "videosglider",
+      "blocks": {
+        "review_kmKWaz": {
+          "type": "review",
+          "settings": {
+            "image_size": 38,
+            "image_size_mobile": 38,
+            "image_radius": 100,
+            "image_border_thickness": 2,
+            "stars_count": 4.5,
+            "stars_size": 18,
+            "stars_size_mobile": 16,
+            "review": "",
+            "stars_text": "",
+            "review_custom": false,
+            "review_font": "josefin_sans_n4",
+            "review_size": 16,
+            "review_size_mobile": 13,
+            "review_height": 130,
+            "review_mt": 16,
+            "review_mt_mobile": 10,
+            "review_color": "#121212",
+            "count_color": "#121212",
+            "stars_color": "#000000",
+            "stars_bg_color": "#ffffff",
+            "stars_bg_half_color": "#dddddd",
+            "image_border_color": "#ffffff"
+          }
+        },
+        "heading_GrMkNK": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Customers love Ella & Rose</h2>",
+            "heading_custom": false,
+            "heading_font": "josefin_sans_n4",
+            "heading_size": 48,
+            "heading_size_mobile": 32,
+            "heading_height": 130,
+            "heading_mt": 12,
+            "heading_mt_mobile": 16,
+            "heading_max_width": 80,
+            "heading_color": "#121212",
+            "heading_border_color": "#00b67d"
+          }
+        },
+        "slide_3mqddH": {
+          "type": "slide",
+          "settings": {
+            "media_type": "image",
+            "video_url": "",
+            "text": "<p>Elegant, comfortable, and surprisingly high quality. The cut is super flattering. Love it more than expected.</p>",
+            "stars_count": 4,
+            "badge": "Verified",
+            "author": "Olivia M."
+          }
+        },
+        "slide_P8yHyx": {
+          "type": "slide",
+          "settings": {
+            "media_type": "image",
+            "video_url": "",
+            "text": "<p>The fabric feels incredibly soft and luxurious. Fits beautifully and looks exactly like the photos. I’d absolutely buy again.</p>",
+            "stars_count": 5,
+            "badge": "Verified",
+            "author": "Jasmine L."
+          }
+        },
+        "slide_8xHMP8": {
+          "type": "slide",
+          "settings": {
+            "media_type": "image",
+            "video_url": "",
+            "text": "<p>This piece exceeded my expectations. Great fit, lovely material, and fast delivery. I’ve already worn it twice.</p>",
+            "stars_count": 5,
+            "badge": "Verified",
+            "author": "Emily R."
+          }
+        },
+        "slide_CK3zni": {
+          "type": "slide",
+          "settings": {
+            "media_type": "image",
+            "video_url": "",
+            "text": "<p>Perfect for both casual and dressed-up looks. It hugs the body just right. Definitely a wardrobe favorite.</p>",
+            "stars_count": 4.5,
+            "badge": "Verified",
+            "author": "Natalie B."
+          }
+        },
+        "slide_DFJYb3": {
+          "type": "slide",
+          "settings": {
+            "media_type": "image",
+            "video_url": "",
+            "text": "<p>Beautifully made and feels premium. The color is even better in person. Very happy with my order.</p>",
+            "stars_count": 5,
+            "badge": "Verified",
+            "author": "Sarah T."
+          }
+        },
+        "slide_KycPYx": {
+          "type": "slide",
+          "settings": {
+            "media_type": "image",
+            "video_url": "",
+            "text": "<p>I’m impressed with the quality and design. It feels high-end but still affordable. Highly recommend it.</p>",
+            "stars_count": 5,
+            "badge": "Verified",
+            "author": "Lauren G."
+          }
+        },
+        "slide_X6XKVH": {
+          "type": "slide",
+          "settings": {
+            "media_type": "image",
+            "video_url": "",
+            "text": "<p>This is my new go-to piece. Soft, stylish, and super versatile. I’ll be keeping an eye on new releases.</p>",
+            "stars_count": 5,
+            "badge": "Verified",
+            "author": "Cloe D."
+          }
+        },
+        "button_wKdVf6": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button": "SHOP NOW",
+            "url": "",
+            "button_custom": false,
+            "button_font": "josefin_sans_n4",
+            "button_size": 16,
+            "button_size_mobile": 16,
+            "button_height": 100,
+            "button_padding_horizontal": 100,
+            "button_padding_horizontal_mobile": 100,
+            "button_padding_vertical": 20,
+            "button_padding_vertical_mobile": 18,
+            "button_radius": 8,
+            "button_border_thickness": 1,
+            "button_mt": 32,
+            "button_mt_mobile": 24,
+            "button_style": "non_outline",
+            "button_color": "#ffffff",
+            "button_hover_color": "#ffffff",
+            "button_bg_color": "#00b67d",
+            "button_bg_hover_color": "#17c28d",
+            "button_border_color": "#121212",
+            "button_border_hover_color": "#121212"
+          }
+        }
+      },
+      "block_order": [
+        "review_kmKWaz",
+        "heading_GrMkNK",
+        "slide_3mqddH",
+        "slide_P8yHyx",
+        "slide_8xHMP8",
+        "slide_CK3zni",
+        "slide_DFJYb3",
+        "slide_KycPYx",
+        "slide_X6XKVH",
+        "button_wKdVf6"
+      ],
+      "disabled": true,
+      "name": "SS - Testimonials #28",
+      "settings": {
+        "content_align": "center",
+        "content_align_mobile": "center",
+        "slider_view": 4,
+        "slider_view_mobile": 1.3,
+        "slider_gap": 20,
+        "slider_gap_mobile": 16,
+        "slider_mt": 40,
+        "slider_mt_mobile": 28,
+        "slide_radius": 16,
+        "slide_border_thickness": 0,
+        "media_ratio": "square",
+        "media_ratio_mobile": "square",
+        "play_size": 20,
+        "play_size_mobile": 24,
+        "play_radius": 100,
+        "slide_content_padding_horizontal": 20,
+        "slide_content_padding_horizontal_mobile": 20,
+        "slide_content_padding_vertical": 20,
+        "slide_content_padding_vertical_mobile": 20,
+        "slide_content_align": "left",
+        "slide_content_align_mobile": "left",
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 15,
+        "text_size_mobile": 14,
+        "text_height": 150,
+        "stars_size": 18,
+        "stars_size_mobile": 16,
+        "stars_wrapper_mt": 20,
+        "stars_wrapper_mt_mobile": 20,
+        "badge_padding_horizontal": 6,
+        "badge_padding_horizontal_mobile": 6,
+        "badge_padding_vertical": 4,
+        "badge_padding_vertical_mobile": 4,
+        "badge_radius": 2,
+        "badge_custom": false,
+        "badge_font": "josefin_sans_n4",
+        "badge_size": 12,
+        "badge_size_mobile": 11,
+        "badge_height": 100,
+        "author_custom": false,
+        "author_font": "josefin_sans_n4",
+        "author_size": 14,
+        "author_size_mobile": 13,
+        "author_height": 130,
+        "author_mt": 16,
+        "author_mt_mobile": 12,
+        "arrows_gap": 20,
+        "arrows_gap_mobile": 16,
+        "arrows_mt": 32,
+        "arrows_mt_mobile": 24,
+        "arrow_size": 40,
+        "arrow_size_mobile": 40,
+        "arrow_icon_size": 10,
+        "arrow_icon_size_mobile": 10,
+        "arrow_border_thickness": 0,
+        "arrow_radius": 100,
+        "arrow_hover_effect": "color",
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": false,
+        "text_color": "#121212",
+        "author_color": "#121212",
+        "stars_color": "#000000",
+        "stars_bg_color": "#ffffff",
+        "stars_bg_half_color": "#dddddd",
+        "slide_bg_color": "#ffffff",
+        "slide_border_color": "#121212",
+        "badge_color": "#121212",
+        "badge_bg_color": "#f3f3f3",
+        "play_color": "#ffffff",
+        "play_hover_color": "#121212",
+        "play_bg_color": "#121212",
+        "play_bg_hover_color": "#ffffff",
+        "arrow_color": "#ffffff",
+        "arrow_hover_color": "#121212",
+        "arrow_bg_color": "#121212",
+        "arrow_bg_hover_color": "#ffffff",
+        "arrow_border_color": "#121212",
+        "arrow_border_hover_color": "#121212",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#121212",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 1200,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    },
+    "testimonials_slider_dKBxHe": {
+      "type": "testimonials-slider",
+      "disabled": true,
+      "name": "Testimonial Grid",
+      "settings": {}
+    },
+    "advanced_content_rQtHGM": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_raTfgL": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_yeGTF4": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "code": "<h2>Money-Back Guarantee</h2>\n<p>\n  I truly believe in the quality of our clothing – and I’m confident you’ll love it too. \n  That’s why we offer a hassle-free 30-day money-back guarantee.\n</p>\n<p>\n  If you’re not completely satisfied with your purchase, simply return it within 30 days \n  and receive a full refund – no questions asked.\n</p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_raTfgL",
+        "liquid_yeGTF4"
+      ],
+      "disabled": true,
+      "name": "t:sections.advanced-content.presets.custom_content.name",
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "disabled": true,
+      "settings": {
+        "max_width": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "product_recommendations_heading": "You may also like",
+        "related_count": 6,
+        "products_per_row": 3
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {}
+    },
+    "faq_N9hAPP": {
+      "type": "faq",
+      "blocks": {
+        "question_gXfXEb": {
+          "type": "question",
+          "settings": {
+            "title": "Comment puis-je suivre ma commande ?",
+            "text": "<p>Une fois votre commande confirmée, vous recevrez un e-mail avec votre numéro de commande. <strong>Pour suivre votre commande !</strong></p>"
+          }
+        },
+        "question_t4YRrf": {
+          "type": "question",
+          "settings": {
+            "title": "Quelle est la politique de retour ?",
+            "text": "<p>Vous pouvez retourner les articles dans les 30 jours calendaires suivant leur réception. Les frais de retour sont à la charge de l'acheteur. Les remboursements approuvés seront effectués selon le mode de paiement initial.</p>"
+          }
+        },
+        "question_fTgniy": {
+          "type": "question",
+          "settings": {
+            "title": "J'ai un problème avec ma commande. Comment puis-je vous contacter ?",
+            "text": "<p>Si vous rencontrez des problèmes ou avez des questions, rendez-vous sur notre page Contact pour joindre notre équipe d'assistance. Nous sommes là pour vous aider rapidement !</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_gXfXEb",
+        "question_t4YRrf",
+        "question_fTgniy"
+      ],
+      "name": "t:sections.faq.presets.faq.name",
+      "settings": {
+        "title": "Questions fréquentes"
+      }
+    },
+    "testimonials_XJpjRp": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_teRGdf": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>The item fits as promised and the fabric is wonderfully comfortable.</p>",
+            "author": "Anna O.",
+            "author_info": "New York, United States"
+          }
+        },
+        "testimonial_F4NqaY": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "4-stars",
+            "testimonial": "<p>Very satisfied with the purchase. Timeless style and great quality.</p>",
+            "author": "Sarah A.",
+            "author_info": "Chicago, United States"
+          }
+        },
+        "testimonial_3PPQAF": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>The clothes are sturdy and exude elegance. Exactly what I was looking for.</p>",
+            "author": "Emma T.",
+            "author_info": "Miami, United States"
+          }
+        },
+        "testimonial_BDq4BM": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Great quality and perfect fit! I would definitely recommend.</p>",
+            "author": "Isabelle A.",
+            "author_info": "Houston, United States"
+          }
+        },
+        "testimonial_XUFz4P": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>It fits perfectly and looks great. Completely satisfied.</p>",
+            "author": "Lisa S",
+            "author_info": "Los Angeles, United States"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_teRGdf",
+        "testimonial_F4NqaY",
+        "testimonial_3PPQAF",
+        "testimonial_BDq4BM",
+        "testimonial_XUFz4P"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "What customers have to say about Austin Boutique",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#ffffff",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "text_with_icons_Q8WN8G": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_VX9WRH": {
+          "type": "text_block",
+          "settings": {
+            "icon": "calendar",
+            "title": "GARANTIE DE REMBOURSEMENT DE 30 JOURS",
+            "text": "<p>Nous offrons un délai de retour de 30 jours. N'hésitez pas à retourner tout article dans les 30 jours si vous n'êtes pas entièrement satisfait.</p>"
+          }
+        },
+        "text_block_y8JL7C": {
+          "type": "text_block",
+          "settings": {
+            "icon": "truck",
+            "title": "LIVRAISON GRATUITE",
+            "text": "<p>Nous offrons la livraison gratuite, suivi inclus. </p>"
+          }
+        },
+        "text_block_3RhBVg": {
+          "type": "text_block",
+          "settings": {
+            "icon": "shield",
+            "title": "PAIEMENT SÉCURISÉ",
+            "text": "<p>Chez <strong>Maison Éloise</strong>, vous pouvez régler votre commande en toute sécurité et facilement par carte de crédit.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_VX9WRH",
+        "text_block_y8JL7C",
+        "text_block_3RhBVg"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "1759238496adc47e65": {
+      "type": "apps",
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "ss_social_proof_TGDf48": {
+      "type": "ss-social-proof",
+      "name": "SS - Social proof",
+      "settings": {
+        "coupon_position": "below_title",
+        "image_size": 30,
+        "image_size_mobile": 25,
+        "image_radius": 100,
+        "image_border_thickness": 0,
+        "text": "<p><strong>Davie</strong> ✓, <strong>Mark</strong> ✓ and <strong>1500+</strong> others love our products!</p>",
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 13,
+        "text_size_mobile": 13,
+        "text_height": 150,
+        "text_align": "left",
+        "text_align_mobile": "left",
+        "text_color": "#121212",
+        "icon_color": "#42a5f5",
+        "image_border_color": "#121212",
+        "background_style": "solid",
+        "background_color": "#f3f3f3",
+        "background_gradient": "linear-gradient(180deg, #FFFFFF 0%, #F2F2F2 100%)",
+        "border_color": "#121212",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 10,
+        "padding_bottom": 10,
+        "padding_horizontal": 10,
+        "padding_horizontal_mobile": 10,
+        "border_style": "solid",
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": false
+      }
+    },
+    "1762200657c7584203": {
+      "type": "apps",
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "timer_bar_7fPWPb",
+    "main",
+    "testimonials_qNUFBi",
+    "featured_collection_zRnJ6y",
+    "text_and_image_HiNtAW",
+    "advanced_content_WwcBt8",
+    "videosglider_UKWUBw",
+    "testimonials_slider_dKBxHe",
+    "advanced_content_rQtHGM",
+    "sub",
+    "product-recommendations",
+    "recently-viewed",
+    "collection-return",
+    "faq_N9hAPP",
+    "testimonials_XJpjRp",
+    "text_with_icons_Q8WN8G",
+    "1759238496adc47e65",
+    "ss_social_proof_TGDf48",
+    "1762200657c7584203"
+  ]
+}
