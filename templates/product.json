@@ -42,6 +42,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "custom_wUBEhG": {
+          "type": "custom",
+          "settings": {
+            "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Trustscore Display</title>\n<style>\n.trustscore-container {\ndisplay: flex;\nalign-items: center;\nfont-family: Arial, sans-serif;\nfont-size: 14px;\ncolor: #333 ;\n}\n\n\n.stars {\ndisplay: flex;\nalign-items: center;\nmargin-right: 10px;\n}\n\n\n.stars img {\nmax-width: 100px;\nwidth: 100px;\nheight: auto;\n}\n\n\n.trustscore {\nfont-weight: normal;\n}\n\n\n.highlight {\nfont-weight: bold;\n}\n\n\n.reviews {\nfont-weight: normal;\nmargin-left: 5px;\n}\n</style>\n</head>\n<body>\n<div class=\"trustscore-container\">\n<div class=\"stars\">\n<!-- Embedding the PNG image from Imgur -->\n<img src=\"https://i.imgur.com/EHjNmTM.png\" alt=\"5 stars\">\n</div>\n<div class=\"Average\">\nŚrednia <span class=\"highlight\">4,8 | 4500+</span> recenzje\n</div>\n</div>\n</body>\n</html>"
+          }
+        },
         "selluxe_tp_stars_PKy6qi": {
           "type": "selluxe_tp_stars",
           "settings": {
@@ -159,6 +165,7 @@
         }
       },
       "block_order": [
+        "custom_wUBEhG",
         "selluxe_tp_stars_PKy6qi",
         "price",
         "separator",
