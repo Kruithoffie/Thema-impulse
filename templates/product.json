@@ -200,61 +200,66 @@
         "product_video_style": "muted"
       }
     },
-    "testimonials_qNUFBi": {
+    "testimonials_tTwi3T": {
       "type": "testimonials",
       "blocks": {
-        "testimonial_hzdxjh": {
+        "testimonial_TrQTKY": {
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
             "testimonial": "<p>“La commande est arrivée dans un emballage soigné et en parfait état. On sent vraiment la qualité du tissu..”</p>",
+            "image": "shopify://shop_images/7_90a443ed-ed91-48ff-9b85-caea7d3d27a0.png",
             "author": "Sophie Laurent.",
             "author_info": "Paris – Il y a 12 heures"
           }
         },
-        "testimonial_xbpBM3": {
+        "testimonial_gMBgnU": {
           "type": "testimonial",
           "settings": {
             "icon": "4-stars",
             "testimonial": "<p>“Excellent service de la part d'Maison Éloise. Les vêtements sont parfaitement ajustés et la touche personnelle fait vraiment la différence.”</p>",
+            "image": "shopify://shop_images/9_f45fd0bd-13f7-4d8e-8455-080de0cf4ff1.png",
             "author": "Camille Dubois.",
             "author_info": "Lyon – Il y a 1 jour"
           }
         },
-        "testimonial_PnVxcd": {
+        "testimonial_Dq4c8V": {
           "type": "testimonial",
           "settings": {
             "icon": "4-stars",
             "testimonial": "<p>« Je suis très impressionné par le souci du détail. Tout était soigneusement emballé, sentait bon et était prêt à être porté. »</p>",
+            "image": "shopify://shop_images/8_1a73fdbb-5267-4410-a23c-6e4631107847.png",
             "author": "Chloé Moreau.",
             "author_info": "Marseille – Il y a 2 jours"
           }
         },
-        "testimonial_49R6q3": {
+        "testimonial_Vz96MM": {
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
             "testimonial": "<p>“Une expérience fantastique ! Les articles sont de grande qualité et on sent que le magasin se soucie vraiment de ses clients.”</p>",
+            "image": "shopify://shop_images/5.png",
             "author": "Élodie Petit.",
             "author_info": "Toulouse – Il y a 3 jours"
           }
         },
-        "testimonial_p4q3kc": {
+        "testimonial_wHLmqz": {
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
             "testimonial": "<p>“Mon colis est arrivé en bon état et était très joliment présenté. Maison Éloise rend les achats en ligne vraiment personnalisés.”</p>",
+            "image": "shopify://shop_images/4.png",
             "author": "Claire Rousseau.",
             "author_info": "Bordeaux – Il y a 5 jours"
           }
         }
       },
       "block_order": [
-        "testimonial_hzdxjh",
-        "testimonial_xbpBM3",
-        "testimonial_PnVxcd",
-        "testimonial_49R6q3",
-        "testimonial_p4q3kc"
+        "testimonial_TrQTKY",
+        "testimonial_gMBgnU",
+        "testimonial_Dq4c8V",
+        "testimonial_Vz96MM",
+        "testimonial_wHLmqz"
       ],
       "settings": {
         "title": "Ce que les clients disent d'Maison Éloise",
@@ -850,7 +855,7 @@
   "order": [
     "timer_bar_7fPWPb",
     "main",
-    "testimonials_qNUFBi",
+    "testimonials_tTwi3T",
     "featured_collection_zRnJ6y",
     "text_and_image_HiNtAW",
     "advanced_content_WwcBt8",
