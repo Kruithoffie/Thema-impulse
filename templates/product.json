@@ -259,8 +259,8 @@
     "featured_collection_zRnJ6y": {
       "type": "featured-collection",
       "settings": {
-        "title": "Combine and receive up to 25% extra discount!",
-        "home_featured_products": "jackets",
+        "title": "Combinez et bénéficiez d'une remise supplémentaire pouvant atteindre 25%",
+        "home_featured_products": "robes",
         "per_row": 4,
         "rows": 1,
         "mobile_scrollable": true,
