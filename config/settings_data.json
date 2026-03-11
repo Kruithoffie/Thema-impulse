@@ -15,6 +15,7 @@
     "product_save_amount": false,
     "product_grid_image_size": "square",
     "collection_grid_shape": "portrait",
+    "favicon": "shopify://shop_images/MODAMOUR_1.png",
     "content_for_index": [],
     "blocks": {
       "17920835415960095625": {
