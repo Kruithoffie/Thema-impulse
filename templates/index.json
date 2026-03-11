@@ -137,8 +137,8 @@
     "580bc108-8f79-4c00-b080-103cccb091ef": {
       "type": "featured-collection",
       "settings": {
-        "title": "Spring Collection",
-        "home_featured_products": "spring-collection",
+        "title": "Blouses",
+        "home_featured_products": "blouses",
         "per_row": 5,
         "rows": 2,
         "mobile_scrollable": true,
