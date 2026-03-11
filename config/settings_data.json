@@ -14,6 +14,7 @@
     "type_product_style": "body",
     "product_save_amount": false,
     "product_grid_image_size": "square",
+    "collection_grid_shape": "portrait",
     "content_for_index": []
   }
 }
