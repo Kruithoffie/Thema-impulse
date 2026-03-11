@@ -132,7 +132,7 @@
         "main_menu_alignment": "center",
         "header_style": "normal",
         "sticky_index": false,
-        "sticky_collection": false,
+        "sticky_collection": true,
         "toolbar_menu": "",
         "toolbar_social": true,
         "show_locale_selector": true,
