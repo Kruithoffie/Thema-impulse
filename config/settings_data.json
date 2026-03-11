@@ -13,7 +13,7 @@
     "color_drawer_text": "#000000",
     "type_product_style": "body",
     "product_save_amount": false,
-    "product_grid_image_size": "square",
+    "product_grid_image_size": "portrait",
     "collection_grid_shape": "portrait",
     "content_for_index": [],
     "blocks": {

@@ -127,7 +127,7 @@
       "settings": {
         "title": "Très populaire en ce moment",
         "home_featured_products": "robes",
-        "per_row": 2,
+        "per_row": 4,
         "rows": 1,
         "mobile_scrollable": true,
         "view_all": true,
