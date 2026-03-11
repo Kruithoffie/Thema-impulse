@@ -24,8 +24,9 @@
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
+            "text_align": "vertical-bottom horizontal-left",
             "image": "shopify://shop_images/hf_20260310_212512_e424aaaf-6647-454c-bb67-db39efd4341b.jpg",
+            "image_mobile": "shopify://shop_images/hf_20260311_173446_7bfd2878-6f65-460e-ac89-7aa79812f64e.png",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
