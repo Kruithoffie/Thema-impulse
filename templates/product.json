@@ -50,6 +50,7 @@
         },
         "selluxe_tp_stars_PKy6qi": {
           "type": "selluxe_tp_stars",
+          "disabled": true,
           "settings": {
             "tp_star_color": "#00b77f",
             "tp_rating": 4.5,
