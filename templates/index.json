@@ -127,7 +127,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Très populaire en ce moment",
-        "home_featured_products": "robes",
+        "home_featured_products": "collection-lumiere-de-provence",
         "per_row": 4,
         "rows": 1,
         "mobile_scrollable": true,
