@@ -17,7 +17,7 @@
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": "PRE-AUTUMN SALE: UP TO 60% OFF",
+            "text": "ANNIVERSARY SALE — UP TO 70% OFF",
             "link_text": "",
             "link": ""
           }
@@ -33,7 +33,7 @@
         "announcement_rJUdAk": {
           "type": "announcement",
           "settings": {
-            "text": "ONLY TODAY FREE SHIPPING ON ALL ORDERS",
+            "text": "FREE SHIPPING ACROSS THE UNITED STATES",
             "link_text": "",
             "link": ""
           }
@@ -44,7 +44,6 @@
         "announcement_U3Tzjd",
         "announcement_rJUdAk"
       ],
-      "disabled": true,
       "custom_css": [
         ".announcement-bar {font-size: 12px !important; /* Pas aan naar gewenste grootte */}"
       ],
@@ -93,6 +92,7 @@
         "text_qCeRRG",
         "text_KeRyka"
       ],
+      "disabled": true,
       "name": "Scrolling announcement bar",
       "settings": {
         "insert_css_class_target": "",
@@ -116,7 +116,6 @@
         "header-0": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/NOUVELL.png",
             "desktop_logo_width": 290,
             "mobile_logo_width": 200
           }
