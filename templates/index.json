@@ -216,7 +216,9 @@
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
+        "image": "shopify://shop_images/hf_20260518_205643_3abe6a72-047c-4b9f-9603-5437e97d8b78.png",
         "image_mask": "none",
+        "image2": "shopify://shop_images/ChatGPT_Image_18_mei_2026_22_59_25.png",
         "image2_mask": "none",
         "subtitle": "",
         "title": "Our Story — Charlotte & Grace Boutique",
