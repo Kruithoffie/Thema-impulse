@@ -39,12 +39,21 @@
             "text": "<p>✔ Nous offrons le meilleur service client depuis des décennies.<br/>✔ Plus de 10 ans d'expérience dans l'industrie de la mode.<br/>✔ Livraison gratuite avec suivi pour chaque commande.<br/><br/></p>",
             "container_width": 30
           }
+        },
+        "menu_34NHG3": {
+          "type": "menu",
+          "settings": {
+            "show_footer_title": false,
+            "menu": "footer",
+            "container_width": 25
+          }
         }
       },
       "block_order": [
         "footer-1",
         "4e942b48-8a32-4d0c-bb8a-599029d7c631",
-        "16f46420-be73-4503-875a-4e9c1c8d139e"
+        "16f46420-be73-4503-875a-4e9c1c8d139e",
+        "menu_34NHG3"
       ],
       "settings": {
         "show_locale_selector": true,
