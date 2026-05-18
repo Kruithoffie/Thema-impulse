@@ -80,7 +80,7 @@
           "type": "collection",
           "settings": {
             "collection": "robes",
-            "title": "",
+            "title": "Dresses",
             "focal_point": "center center"
           }
         },
@@ -88,7 +88,7 @@
           "type": "collection",
           "settings": {
             "collection": "blouses",
-            "title": "",
+            "title": "Blouses",
             "focal_point": "center center"
           }
         },
@@ -96,7 +96,15 @@
           "type": "collection",
           "settings": {
             "collection": "pantalons",
-            "title": "",
+            "title": "Blazers",
+            "focal_point": "center center"
+          }
+        },
+        "collection_4yYLFg": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "Shoes",
             "focal_point": "center center"
           }
         }
@@ -104,7 +112,8 @@
       "block_order": [
         "collection_3c6EHD",
         "collection_AeLxPN",
-        "collection_XQTnUH"
+        "collection_XQTnUH",
+        "collection_4yYLFg"
       ],
       "name": "t:sections.featured-collections.presets.collection_list.name",
       "settings": {
