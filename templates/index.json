@@ -300,6 +300,39 @@
         "color_background": "#ffffff",
         "color_text": "#1c1d1d"
       }
+    },
+    "trustpilot_slider_cLGPhB": {
+      "type": "trustpilot-slider",
+      "name": "Trustpilot Slider",
+      "settings": {
+        "title-1": "Lovely company",
+        "review-1": "Great products, lovely packaging, fast delivery. Nothing but nice things to say about Dore & Rose!",
+        "name-1": "Iris Peeters",
+        "title-2": "Lovely company",
+        "review-2": "Great products, lovely packaging, fast delivery. Nothing but nice things to say about Dore & Rose!",
+        "name-2": "Iris Peeters",
+        "title-3": "Lovely company",
+        "review-3": "Great products, lovely packaging, fast delivery. Nothing but nice things to say about Dore & Rose!",
+        "name-3": "Iris Peeters",
+        "title-4": "Lovely company",
+        "review-4": "Great products, lovely packaging, fast delivery. Nothing but nice things to say about Dore & Rose!",
+        "name-4": "Iris Peeters",
+        "title-5": "Lovely company",
+        "review-5": "Great products, lovely packaging, fast delivery. Nothing but nice things to say about Dore & Rose!",
+        "name-5": "Iris Peeters",
+        "title-6": "Lovely company",
+        "review-6": "Great products, lovely packaging, fast delivery. Nothing but nice things to say about Dore & Rose!",
+        "name-6": "Iris Peeters",
+        "title-7": "Lovely company",
+        "review-7": "Great products, lovely packaging, fast delivery. Nothing but nice things to say about Dore & Rose!",
+        "name-7": "Iris Peeters",
+        "title-8": "Lovely company",
+        "review-8": "Great products, lovely packaging, fast delivery. Nothing but nice things to say about Dore & Rose!",
+        "name-8": "Iris Peeters",
+        "title-9": "Lovely company",
+        "review-9": "Great products, lovely packaging, fast delivery. Nothing but nice things to say about Dore & Rose!",
+        "name-9": "Iris Peeters"
+      }
     }
   },
   "order": [
@@ -310,6 +343,7 @@
     "1779129197d0b5acf0",
     "featured-collection",
     "text_and_image_nfpwGg",
-    "testimonials_phxWgR"
+    "testimonials_phxWgR",
+    "trustpilot_slider_cLGPhB"
   ]
 }
