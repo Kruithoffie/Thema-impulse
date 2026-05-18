@@ -16,17 +16,15 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Célébrez notre 10ᵉ anniversaire",
+            "title": "CELEBRATE OUR 25TH ANNIVERSARY",
             "title_size": 60,
-            "subheading": "Jusqu'à 70 % de réduction",
+            "subheading": "UP TO 70% OFF",
             "link": "",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify://shop_images/hf_20260310_212512_e424aaaf-6647-454c-bb67-db39efd4341b.jpg",
-            "image_mobile": "shopify://shop_images/hf_20260311_173446_7bfd2878-6f65-460e-ac89-7aa79812f64e.png",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -151,9 +149,7 @@
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
-        "image": "shopify://shop_images/hf_20260310_230039_d91cfff0-ce71-4737-8d4e-fac40597c242.png",
         "image_mask": "none",
-        "image2": "shopify://shop_images/hf_20260310_225724_d0417bf8-d047-4c77-90f4-762ae1981fe9.png",
         "image2_mask": "none",
         "subtitle": "",
         "title": "Rencontrez Maison Éloise",
@@ -178,7 +174,6 @@
           "settings": {
             "icon": "5-stars",
             "testimonial": "<p>“La commande est arrivée dans un emballage soigné et en parfait état. On sent vraiment la qualité du tissu..”</p>",
-            "image": "shopify://shop_images/7_90a443ed-ed91-48ff-9b85-caea7d3d27a0.png",
             "author": "Sophie Laurent.",
             "author_info": "Paris – Il y a 12 heures"
           }
@@ -188,7 +183,6 @@
           "settings": {
             "icon": "4-stars",
             "testimonial": "<p>“Excellent service de la part d'Maison Éloise. Les vêtements sont parfaitement ajustés et la touche personnelle fait vraiment la différence.”</p>",
-            "image": "shopify://shop_images/9_f45fd0bd-13f7-4d8e-8455-080de0cf4ff1.png",
             "author": "Camille Dubois.",
             "author_info": "Lyon – Il y a 1 jour"
           }
@@ -198,7 +192,6 @@
           "settings": {
             "icon": "4-stars",
             "testimonial": "<p>« Je suis très impressionné par le souci du détail. Tout était soigneusement emballé, sentait bon et était prêt à être porté. »</p>",
-            "image": "shopify://shop_images/8_1a73fdbb-5267-4410-a23c-6e4631107847.png",
             "author": "Chloé Moreau.",
             "author_info": "Marseille – Il y a 2 jours"
           }

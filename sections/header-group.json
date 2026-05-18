@@ -117,7 +117,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/NOUVELL.png",
-            "desktop_logo_width": 290,
+            "desktop_logo_width": 320,
             "mobile_logo_width": 200
           }
         }
