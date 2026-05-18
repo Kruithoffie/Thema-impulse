@@ -151,6 +151,55 @@
         "divider": false
       }
     },
+    "1779129197d0b5acf0": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_523425b_pnqJn4": {
+          "type": "ai_gen_block_523425b",
+          "settings": {
+            "max_width": 1200,
+            "padding_top": 48,
+            "padding_bottom": 48,
+            "gap": 40,
+            "mobile_gap": 20,
+            "desktop_width_percent": 100,
+            "background_color": "#ffffff",
+            "circle_color": "#f4f4f4",
+            "icon_color": "#000000",
+            "text_color": "#000000",
+            "circle_size": 80,
+            "circle_size_mobile": 60,
+            "icon_size": 40,
+            "icon_text_gap": 12,
+            "font_size": 12,
+            "font_size_mobile": 10,
+            "font_weight": "600",
+            "letter_spacing": 0.5,
+            "badge_1_enabled": true,
+            "badge_1_icon": "custom",
+            "badge_1_custom_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 100 100\" width=\"120\" height=\"120\" style=\"border-radius:50%;background:#1a2244;display:block;\">\n  <g stroke=\"white\" stroke-width=\"2.2\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n    <path d=\"M50 68 C50 68 50 52 58 44 C66 36 78 35 78 35 C78 35 78 47 70 55 C62 63 50 62 50 62\"></path>\n    <path d=\"M50 68 C50 68 50 54 42 46 C34 38 22 37 22 37 C22 37 23 49 31 56 C39 63 50 62 50 62\"></path>\n    <line x1=\"50\" y1=\"68\" x2=\"50\" y2=\"75\"></line>\n  </g>\n</svg>",
+            "badge_1_label": "Eco-friendly",
+            "badge_2_enabled": true,
+            "badge_2_icon": "custom",
+            "badge_2_custom_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 100 100\" width=\"120\" height=\"120\">\n  <circle cx=\"50\" cy=\"50\" r=\"50\" fill=\"#1a2244\"></circle>\n  <g stroke=\"white\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n    <rect x=\"20\" y=\"38\" width=\"38\" height=\"22\" rx=\"1\"></rect>\n    <path d=\"M58 44 L68 44 L76 54 L76 60 L58 60 Z\"></path>\n    <circle cx=\"31\" cy=\"62\" r=\"4\" fill=\"none\"></circle>\n    <circle cx=\"67\" cy=\"62\" r=\"4\" fill=\"none\"></circle>\n    <line x1=\"22\" y1=\"44\" x2=\"30\" y2=\"44\"></line>\n    <line x1=\"22\" y1=\"50\" x2=\"27\" y2=\"50\"></line>\n    <line x1=\"22\" y1=\"56\" x2=\"26\" y2=\"56\"></line>\n  </g>\n</svg>",
+            "badge_2_label": "Free shipping",
+            "badge_3_enabled": true,
+            "badge_3_icon": "custom",
+            "badge_3_custom_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 100 100\" width=\"120\" height=\"120\">\n  <circle cx=\"50\" cy=\"50\" r=\"50\" fill=\"#1a2244\"></circle>\n  <g stroke=\"white\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n    <path d=\"M30 45 L36 65 L64 65 L70 45 Z\"></path>\n    <line x1=\"26\" y1=\"38\" x2=\"74\" y2=\"38\"></line>\n    <line x1=\"38\" y1=\"38\" x2=\"38\" y2=\"45\"></line>\n    <line x1=\"62\" y1=\"38\" x2=\"62\" y2=\"45\"></line>\n    <line x1=\"50\" y1=\"52\" x2=\"50\" y2=\"35\"></line>\n    <polyline points=\"44,41 50,35 56,41\"></polyline>\n  </g>\n</svg>",
+            "badge_3_label": "Easy returns",
+            "badge_4_enabled": true,
+            "badge_4_icon": "custom",
+            "badge_4_custom_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 100 100\" width=\"120\" height=\"120\">\n  <circle cx=\"50\" cy=\"50\" r=\"50\" fill=\"#1a2244\"></circle>\n  <g stroke=\"white\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n    <rect x=\"20\" y=\"36\" width=\"42\" height=\"28\" rx=\"3\"></rect>\n    <line x1=\"20\" y1=\"44\" x2=\"62\" y2=\"44\"></line>\n    <line x1=\"26\" y1=\"54\" x2=\"36\" y2=\"54\"></line>\n    <path d=\"M68 46 C68 46 76 49 76 57 C76 65 68 68 68 68 C68 68 60 65 60 57 C60 49 68 46 68 46Z\"></path>\n    <polyline points=\"64,57 67,60 73,54\"></polyline>\n  </g>\n</svg>",
+            "badge_4_label": "Secure payment"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_523425b_pnqJn4"
+      ],
+      "settings": {}
+    },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
@@ -293,55 +342,6 @@
         "color_background": "#ffffff",
         "color_text": "#1c1d1d"
       }
-    },
-    "1779129197d0b5acf0": {
-      "type": "_blocks",
-      "blocks": {
-        "ai_gen_block_523425b_pnqJn4": {
-          "type": "ai_gen_block_523425b",
-          "settings": {
-            "max_width": 1200,
-            "padding_top": 48,
-            "padding_bottom": 48,
-            "gap": 40,
-            "mobile_gap": 20,
-            "desktop_width_percent": 100,
-            "background_color": "#ffffff",
-            "circle_color": "#f4f4f4",
-            "icon_color": "#000000",
-            "text_color": "#000000",
-            "circle_size": 80,
-            "circle_size_mobile": 60,
-            "icon_size": 40,
-            "icon_text_gap": 12,
-            "font_size": 12,
-            "font_size_mobile": 10,
-            "font_weight": "600",
-            "letter_spacing": 0.5,
-            "badge_1_enabled": true,
-            "badge_1_icon": "custom",
-            "badge_1_custom_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 100 100\" width=\"120\" height=\"120\" style=\"border-radius:50%;background:#1a2244;display:block;\">\n  <g stroke=\"white\" stroke-width=\"2.2\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n    <path d=\"M50 68 C50 68 50 52 58 44 C66 36 78 35 78 35 C78 35 78 47 70 55 C62 63 50 62 50 62\"></path>\n    <path d=\"M50 68 C50 68 50 54 42 46 C34 38 22 37 22 37 C22 37 23 49 31 56 C39 63 50 62 50 62\"></path>\n    <line x1=\"50\" y1=\"68\" x2=\"50\" y2=\"75\"></line>\n  </g>\n</svg>",
-            "badge_1_label": "Eco-friendly",
-            "badge_2_enabled": true,
-            "badge_2_icon": "custom",
-            "badge_2_custom_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 100 100\" width=\"120\" height=\"120\">\n  <circle cx=\"50\" cy=\"50\" r=\"50\" fill=\"#1a2244\"></circle>\n  <g stroke=\"white\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n    <rect x=\"20\" y=\"38\" width=\"38\" height=\"22\" rx=\"1\"></rect>\n    <path d=\"M58 44 L68 44 L76 54 L76 60 L58 60 Z\"></path>\n    <circle cx=\"31\" cy=\"62\" r=\"4\" fill=\"none\"></circle>\n    <circle cx=\"67\" cy=\"62\" r=\"4\" fill=\"none\"></circle>\n    <line x1=\"22\" y1=\"44\" x2=\"30\" y2=\"44\"></line>\n    <line x1=\"22\" y1=\"50\" x2=\"27\" y2=\"50\"></line>\n    <line x1=\"22\" y1=\"56\" x2=\"26\" y2=\"56\"></line>\n  </g>\n</svg>",
-            "badge_2_label": "Free shipping",
-            "badge_3_enabled": true,
-            "badge_3_icon": "custom",
-            "badge_3_custom_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 100 100\" width=\"120\" height=\"120\">\n  <circle cx=\"50\" cy=\"50\" r=\"50\" fill=\"#1a2244\"></circle>\n  <g stroke=\"white\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n    <path d=\"M30 45 L36 65 L64 65 L70 45 Z\"></path>\n    <line x1=\"26\" y1=\"38\" x2=\"74\" y2=\"38\"></line>\n    <line x1=\"38\" y1=\"38\" x2=\"38\" y2=\"45\"></line>\n    <line x1=\"62\" y1=\"38\" x2=\"62\" y2=\"45\"></line>\n    <line x1=\"50\" y1=\"52\" x2=\"50\" y2=\"35\"></line>\n    <polyline points=\"44,41 50,35 56,41\"></polyline>\n  </g>\n</svg>",
-            "badge_3_label": "Easy returns",
-            "badge_4_enabled": true,
-            "badge_4_icon": "custom",
-            "badge_4_custom_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 100 100\" width=\"120\" height=\"120\">\n  <circle cx=\"50\" cy=\"50\" r=\"50\" fill=\"#1a2244\"></circle>\n  <g stroke=\"white\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n    <rect x=\"20\" y=\"36\" width=\"42\" height=\"28\" rx=\"3\"></rect>\n    <line x1=\"20\" y1=\"44\" x2=\"62\" y2=\"44\"></line>\n    <line x1=\"26\" y1=\"54\" x2=\"36\" y2=\"54\"></line>\n    <path d=\"M68 46 C68 46 76 49 76 57 C76 65 68 68 68 68 C68 68 60 65 60 57 C60 49 68 46 68 46Z\"></path>\n    <polyline points=\"64,57 67,60 73,54\"></polyline>\n  </g>\n</svg>",
-            "badge_4_label": "Secure payment"
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "ai_gen_block_523425b_pnqJn4"
-      ],
-      "settings": {}
     }
   },
   "order": [
@@ -349,11 +349,11 @@
     "rich-text",
     "featured_collections_cfHkr4",
     "rich_text_qLAWJB",
+    "1779129197d0b5acf0",
     "featured-collection",
     "advanced_content_7krGL6",
     "580bc108-8f79-4c00-b080-103cccb091ef",
     "text_and_image_nfpwGg",
-    "testimonials_phxWgR",
-    "1779129197d0b5acf0"
+    "testimonials_phxWgR"
   ]
 }
