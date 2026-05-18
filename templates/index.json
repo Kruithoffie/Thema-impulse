@@ -36,7 +36,7 @@
         "image_zmbmY7"
       ],
       "settings": {
-        "section_height": "450px",
+        "section_height": "natural",
         "mobile_height": "500px",
         "parallax": false,
         "style": "bars",
