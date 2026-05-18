@@ -203,8 +203,8 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Très populaire en ce moment",
-        "home_featured_products": "collection-lumiere-de-provence",
+        "title": "Very popular right now",
+        "home_featured_products": "exclusive-dresses",
         "per_row": 4,
         "rows": 1,
         "mobile_scrollable": true,
