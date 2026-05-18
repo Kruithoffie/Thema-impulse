@@ -212,50 +212,6 @@
         "divider": false
       }
     },
-    "advanced_content_7krGL6": {
-      "type": "advanced-content",
-      "blocks": {
-        "image_X3agA8": {
-          "type": "image",
-          "settings": {
-            "link": "",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "liquid_FGJ73L": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>Custom content</h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.</p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_X3agA8",
-        "liquid_FGJ73L"
-      ],
-      "custom_css": [],
-      "name": "t:sections.advanced-content.presets.custom_content.name",
-      "settings": {
-        "full_width": false,
-        "space_around": true,
-        "lazyload_images": true
-      }
-    },
-    "580bc108-8f79-4c00-b080-103cccb091ef": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Blouses",
-        "home_featured_products": "blouses",
-        "per_row": 5,
-        "rows": 2,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
-      }
-    },
     "text_and_image_nfpwGg": {
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
@@ -263,7 +219,7 @@
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "",
-        "title": "Rencontrez Maison Éloise",
+        "title": "Our story",
         "text": "<p>Chez <strong>Maison Éloise</strong>, tout commence par une passion commune pour le style intemporel et l'élégance moderne.<br/><br/>Dès leur plus jeune âge, <strong>Maison Éloise</strong> ont été inspirées par la mode, la créativité et la confiance en soi que procure le fait de se sentir bien dans sa peau. Après avoir étudié le stylisme et le commerce, elles ont chacune acquis de l'expérience en travaillant avec différentes marques à travers la France.</p><p>Des années plus tard, elles ont décidé d'unir leurs visions et de créer leur propre boutique, qui célèbre le style naturel et l'individualité. Aujourd'hui, <strong>Maison Éloise</strong> est plus qu'une simple marque de mode : c'est une communauté fondée sur la qualité, le confort et la confiance en soi.</p><p>Leur mission reste simple :<br/><br/>pour rester à la pointe des nouvelles tendances, proposer des articles de grande qualité et permettre à chaque femme de se sentir remarquée, valorisée et élégante à sa manière.</p>",
         "button_label": "",
         "button_link": "",
@@ -351,8 +307,6 @@
     "rich_text_qLAWJB",
     "1779129197d0b5acf0",
     "featured-collection",
-    "advanced_content_7krGL6",
-    "580bc108-8f79-4c00-b080-103cccb091ef",
     "text_and_image_nfpwGg",
     "testimonials_phxWgR"
   ]
