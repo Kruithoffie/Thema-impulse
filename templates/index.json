@@ -301,38 +301,69 @@
         "color_text": "#1c1d1d"
       }
     },
-    "trustpilot_slider_cLGPhB": {
-      "type": "trustpilot-slider",
-      "name": "Trustpilot Slider",
-      "settings": {
-        "title-1": "Lovely company",
-        "review-1": "Great products, lovely packaging, fast delivery. Nothing but nice things to say about Dore & Rose!",
-        "name-1": "Iris Peeters",
-        "title-2": "Lovely company",
-        "review-2": "Great products, lovely packaging, fast delivery. Nothing but nice things to say about Dore & Rose!",
-        "name-2": "Iris Peeters",
-        "title-3": "Lovely company",
-        "review-3": "Great products, lovely packaging, fast delivery. Nothing but nice things to say about Dore & Rose!",
-        "name-3": "Iris Peeters",
-        "title-4": "Lovely company",
-        "review-4": "Great products, lovely packaging, fast delivery. Nothing but nice things to say about Dore & Rose!",
-        "name-4": "Iris Peeters",
-        "title-5": "Lovely company",
-        "review-5": "Great products, lovely packaging, fast delivery. Nothing but nice things to say about Dore & Rose!",
-        "name-5": "Iris Peeters",
-        "title-6": "Lovely company",
-        "review-6": "Great products, lovely packaging, fast delivery. Nothing but nice things to say about Dore & Rose!",
-        "name-6": "Iris Peeters",
-        "title-7": "Lovely company",
-        "review-7": "Great products, lovely packaging, fast delivery. Nothing but nice things to say about Dore & Rose!",
-        "name-7": "Iris Peeters",
-        "title-8": "Lovely company",
-        "review-8": "Great products, lovely packaging, fast delivery. Nothing but nice things to say about Dore & Rose!",
-        "name-8": "Iris Peeters",
-        "title-9": "Lovely company",
-        "review-9": "Great products, lovely packaging, fast delivery. Nothing but nice things to say about Dore & Rose!",
-        "name-9": "Iris Peeters"
-      }
+    "1779138252723431f8": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_0c6f514_FzV3Kw": {
+          "type": "ai_gen_block_0c6f514",
+          "settings": {
+            "section_bg_color": "#ffffff",
+            "desktop_width_percent": 100,
+            "title": "Here's what our customers say",
+            "title_font": "serif",
+            "title_size": 36,
+            "title_color": "#000000",
+            "subtitle": "More than 1,500+ reviews",
+            "subtitle_size": 16,
+            "subtitle_color": "#666666",
+            "cards_visible_desktop": "3",
+            "card_bg_color": "#ffffff",
+            "card_border_radius": 12,
+            "card_shadow": true,
+            "star_color": "#FFD700",
+            "arrow_size": 45,
+            "arrow_shape": "circle",
+            "arrow_bg_color": "#ffffff",
+            "arrow_hover_color": "#f4f4f4",
+            "arrow_color": "#000000",
+            "review_1_rating": 5,
+            "review_1_text": "Absolutely love this product! The quality exceeded my expectations and the customer service was fantastic.",
+            "review_1_name": "Patricia M.",
+            "review_2_rating": 5,
+            "review_2_text": "Best purchase I've made this year. Highly recommend to anyone looking for quality and style.",
+            "review_2_name": "Sarah K.",
+            "review_3_rating": 5,
+            "review_3_text": "Amazing quality and fast shipping. Will definitely be ordering again soon!",
+            "review_3_name": "Jennifer L.",
+            "review_4_rating": 5,
+            "review_4_text": "",
+            "review_4_name": "",
+            "review_5_rating": 5,
+            "review_5_text": "",
+            "review_5_name": "",
+            "review_6_rating": 5,
+            "review_6_text": "",
+            "review_6_name": "",
+            "review_7_rating": 5,
+            "review_7_text": "",
+            "review_7_name": "",
+            "review_8_rating": 5,
+            "review_8_text": "",
+            "review_8_name": "",
+            "review_9_rating": 5,
+            "review_9_text": "",
+            "review_9_name": "",
+            "review_10_rating": 5,
+            "review_10_text": "",
+            "review_10_name": ""
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_0c6f514_FzV3Kw"
+      ],
+      "settings": {}
     }
   },
   "order": [
@@ -344,6 +375,6 @@
     "featured-collection",
     "text_and_image_nfpwGg",
     "testimonials_phxWgR",
-    "trustpilot_slider_cLGPhB"
+    "1779138252723431f8"
   ]
 }
