@@ -44,7 +44,7 @@
           "type": "menu",
           "settings": {
             "show_footer_title": false,
-            "menu": "footer",
+            "menu": "informacje",
             "container_width": 25
           }
         }
