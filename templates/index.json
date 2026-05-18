@@ -79,7 +79,7 @@
         "collection_3c6EHD": {
           "type": "collection",
           "settings": {
-            "collection": "robes",
+            "collection": "all-dresses",
             "title": "Dresses",
             "focal_point": "center center"
           }
@@ -87,24 +87,24 @@
         "collection_AeLxPN": {
           "type": "collection",
           "settings": {
-            "collection": "blouses",
-            "title": "Blouses",
+            "collection": "blouses-shirts",
+            "title": "BLOUSES & SHIRTS",
             "focal_point": "center center"
           }
         },
         "collection_XQTnUH": {
           "type": "collection",
           "settings": {
-            "collection": "pantalons",
-            "title": "Blazers",
+            "collection": "jewellery",
+            "title": "JEWELLERY",
             "focal_point": "center center"
           }
         },
         "collection_4yYLFg": {
           "type": "collection",
           "settings": {
-            "collection": "",
-            "title": "Shoes",
+            "collection": "loafers",
+            "title": "LOAFERS",
             "focal_point": "center center"
           }
         }
