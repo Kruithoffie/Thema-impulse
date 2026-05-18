@@ -99,21 +99,12 @@
             "title": "",
             "focal_point": "center center"
           }
-        },
-        "collection_ATJQQ3": {
-          "type": "collection",
-          "settings": {
-            "collection": "blazers",
-            "title": "",
-            "focal_point": "center center"
-          }
         }
       },
       "block_order": [
         "collection_3c6EHD",
         "collection_AeLxPN",
-        "collection_XQTnUH",
-        "collection_ATJQQ3"
+        "collection_XQTnUH"
       ],
       "name": "t:sections.featured-collections.presets.collection_list.name",
       "settings": {
