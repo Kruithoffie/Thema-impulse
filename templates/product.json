@@ -55,7 +55,7 @@
             "tp_star_color": "#00b77f",
             "tp_rating": 4.5,
             "tp_reviews": 0,
-            "review_text": "4,5 sur 3 172+"
+            "review_text": "4.5 / 5 based on 12,500+ reviews"
           }
         },
         "price": {
@@ -147,21 +147,12 @@
         "selluxe_followers_T9XW6r": {
           "type": "selluxe_followers",
           "settings": {
-            "profile_picture_1": "shopify://shop_images/images.webp",
             "reviewers": "Léna Mahfouf",
             "show_verified": true,
             "add_text": "et <strong>3.1k+</strong> les autres femmes aiment <strong>Maison Éloise</strong>",
             "font_size": 14,
             "image_size": 40,
             "horizontal_alignment": "flex-start"
-          }
-        },
-        "kiwi_size_chart_recommender_kiwi_sizing_Y3qVdK": {
-          "type": "shopify://apps/kiwi-size-chart-recommender/blocks/kiwiSizing/b7369922-bf15-44ce-a121-a22a8fcbc4b0",
-          "settings": {
-            "fallbackToBlockPosition": false,
-            "waitForElementSelector": "",
-            "waitForElementDelay": 5
           }
         }
       },
@@ -181,8 +172,7 @@
         "6fbafccd-e300-4684-a364-9c3fb056e3f9",
         "tab",
         "f9420f3c-75d6-4aa6-96b3-4ed76131dc4e",
-        "selluxe_followers_T9XW6r",
-        "kiwi_size_chart_recommender_kiwi_sizing_Y3qVdK"
+        "selluxe_followers_T9XW6r"
       ],
       "custom_css": [
         ".badge {display: none;}"
@@ -208,7 +198,6 @@
           "settings": {
             "icon": "5-stars",
             "testimonial": "<p>“La commande est arrivée dans un emballage soigné et en parfait état. On sent vraiment la qualité du tissu..”</p>",
-            "image": "shopify://shop_images/7_90a443ed-ed91-48ff-9b85-caea7d3d27a0.png",
             "author": "Sophie Laurent.",
             "author_info": "Paris – Il y a 12 heures"
           }
@@ -218,7 +207,6 @@
           "settings": {
             "icon": "4-stars",
             "testimonial": "<p>“Excellent service de la part d'Maison Éloise. Les vêtements sont parfaitement ajustés et la touche personnelle fait vraiment la différence.”</p>",
-            "image": "shopify://shop_images/9_f45fd0bd-13f7-4d8e-8455-080de0cf4ff1.png",
             "author": "Camille Dubois.",
             "author_info": "Lyon – Il y a 1 jour"
           }
@@ -228,7 +216,6 @@
           "settings": {
             "icon": "4-stars",
             "testimonial": "<p>« Je suis très impressionné par le souci du détail. Tout était soigneusement emballé, sentait bon et était prêt à être porté. »</p>",
-            "image": "shopify://shop_images/8_1a73fdbb-5267-4410-a23c-6e4631107847.png",
             "author": "Chloé Moreau.",
             "author_info": "Marseille – Il y a 2 jours"
           }
@@ -285,9 +272,7 @@
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
-        "image": "shopify://shop_images/hf_20260310_230039_d91cfff0-ce71-4737-8d4e-fac40597c242.png",
         "image_mask": "none",
-        "image2": "shopify://shop_images/hf_20260310_225724_d0417bf8-d047-4c77-90f4-762ae1981fe9.png",
         "image2_mask": "none",
         "subtitle": "",
         "title": "Rencontrez Maison Éloise",
