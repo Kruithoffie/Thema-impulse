@@ -155,9 +155,10 @@
         "selluxe_followers_T9XW6r": {
           "type": "selluxe_followers",
           "settings": {
-            "reviewers": "Léna Mahfouf",
+            "profile_picture_1": "shopify://shop_images/Scherm_afbeelding_2026-05-19_om_13.50.11.png",
+            "reviewers": "Brooke Burke",
             "show_verified": true,
-            "add_text": "et <strong>3.1k+</strong> les autres femmes aiment <strong>Maison Éloise</strong>",
+            "add_text": "and <strong>50k+</strong> other women like <strong>Charlotte & Grace Boutique</strong>",
             "font_size": 14,
             "image_size": 40,
             "horizontal_alignment": "flex-start"
