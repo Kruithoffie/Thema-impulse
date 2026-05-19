@@ -111,7 +111,7 @@
         "ea05bd8c-ce3b-4efc-9331-8543471e68d9": {
           "type": "custom",
           "settings": {
-            "code": "<div class=\"product-block\">\n  <div class=\"stock-update\">\n    <p style=\"background-color: #f9ece9; padding: 15px; border-radius: 5px; color: #b04135; font-size: 13px;\">\n      <strong>MISE À JOUR DES SOLDES :</strong> En raison de la forte demande pendant notre vente d'anniversaire, il ne reste plus qu'un nombre limité d'articles !\n    </p>\n  </div>\n</div>"
+            "code": "<div class=\"product-block\">\n  <div class=\"stock-update\">\n    <p style=\"background-color: #f9ece9; padding: 15px; border-radius: 5px; color: #b04135; font-size: 13px;\">\n      <strong>SALE UPDATE:</strong> Due to high demand during our anniversary sale, only a limited number of items remain!\n    </p>\n  </div>\n</div>"
           }
         },
         "description": {
