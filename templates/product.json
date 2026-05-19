@@ -200,66 +200,74 @@
         "product_video_style": "muted"
       }
     },
-    "testimonials_tTwi3T": {
+    "testimonials_mDWj6i": {
       "type": "testimonials",
       "blocks": {
-        "testimonial_TrQTKY": {
+        "testimonial_qkdHDD": {
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>“La commande est arrivée dans un emballage soigné et en parfait état. On sent vraiment la qualité du tissu..”</p>",
-            "author": "Sophie Laurent.",
-            "author_info": "Paris – Il y a 12 heures"
+            "testimonial": "<p>I emailed customer service because I accidentally entered the wrong apartment number. They replied the same day and fixed it before shipping. Really appreciated how easy they made everything</p>",
+            "author": "Denise",
+            "author_info": ""
           }
         },
-        "testimonial_gMBgnU": {
+        "testimonial_89rrik": {
           "type": "testimonial",
           "settings": {
             "icon": "4-stars",
-            "testimonial": "<p>“Excellent service de la part d'Maison Éloise. Les vêtements sont parfaitement ajustés et la touche personnelle fait vraiment la différence.”</p>",
-            "author": "Camille Dubois.",
-            "author_info": "Lyon – Il y a 1 jour"
+            "testimonial": "<p>The shipping took a couple days longer than I expected, but the quality made up for it. The blouse I ordered feels much more expensive than it was. I already bookmarked a few more items for summer.</p>",
+            "author": "Sharon",
+            "author_info": ""
           }
         },
-        "testimonial_Dq4c8V": {
+        "testimonial_F9JjqL": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>I struggle finding clothes that feel stylish without looking too young for me. Charlotte & Grace somehow has that balance. Elegant, comfortable, and flattering without trying too hard.</p>",
+            "author": "Cynthia",
+            "author_info": ""
+          }
+        },
+        "testimonial_chUmtU": {
           "type": "testimonial",
           "settings": {
             "icon": "4-stars",
-            "testimonial": "<p>« Je suis très impressionné par le souci du détail. Tout était soigneusement emballé, sentait bon et était prêt à être porté. »</p>",
-            "author": "Chloé Moreau.",
-            "author_info": "Marseille – Il y a 2 jours"
+            "testimonial": "<p>The first size I ordered didn’t fit the way I wanted, but exchanging it was surprisingly simple. Customer support answered quickly and helped me choose the correct size. The new one fits perfectly</p>",
+            "author": "Rebecca",
+            "author_info": ""
           }
         },
-        "testimonial_Vz96MM": {
+        "testimonial_Fwmxf8": {
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>“Une expérience fantastique ! Les articles sont de grande qualité et on sent que le magasin se soucie vraiment de ses clients.”</p>",
-            "image": "shopify://shop_images/5.png",
-            "author": "Élodie Petit.",
-            "author_info": "Toulouse – Il y a 3 jours"
+            "testimonial": "<p>I wore one of their maxi dresses to my friend’s birthday dinner and got compliments all night. The fit around the waist was super flattering and the material moved beautifully when walking.</p>",
+            "author": "Angela",
+            "author_info": ""
           }
         },
-        "testimonial_wHLmqz": {
+        "testimonial_PKCERp": {
           "type": "testimonial",
           "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>“Mon colis est arrivé en bon état et était très joliment présenté. Maison Éloise rend les achats en ligne vraiment personnalisés.”</p>",
-            "image": "shopify://shop_images/4.png",
-            "author": "Claire Rousseau.",
-            "author_info": "Bordeaux – Il y a 5 jours"
+            "icon": "4-stars",
+            "testimonial": "<p>I wish they had even more colors available in some styles because the set I bought is incredibly comfortable. It’s one of those outfits you end up reaching for constantly</p>",
+            "author": "Melissa",
+            "author_info": ""
           }
         }
       },
       "block_order": [
-        "testimonial_TrQTKY",
-        "testimonial_gMBgnU",
-        "testimonial_Dq4c8V",
-        "testimonial_Vz96MM",
-        "testimonial_wHLmqz"
+        "testimonial_qkdHDD",
+        "testimonial_89rrik",
+        "testimonial_F9JjqL",
+        "testimonial_chUmtU",
+        "testimonial_Fwmxf8",
+        "testimonial_PKCERp"
       ],
       "settings": {
-        "title": "Ce que les clients disent d'Maison Éloise",
+        "title": "What customers are saying about Charlotte & Grace Boutique",
         "align_text": "center",
         "round_images": true,
         "color_background": "#ffffff",
@@ -850,7 +858,7 @@
   "order": [
     "timer_bar_7fPWPb",
     "main",
-    "testimonials_tTwi3T",
+    "testimonials_mDWj6i",
     "featured_collection_zRnJ6y",
     "text_and_image_HiNtAW",
     "advanced_content_WwcBt8",
