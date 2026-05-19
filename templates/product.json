@@ -274,18 +274,6 @@
         "color_text": "#1c1d1d"
       }
     },
-    "featured_collection_zRnJ6y": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Combinez et bénéficiez d'une remise supplémentaire pouvant atteindre 25%",
-        "home_featured_products": "robes",
-        "per_row": 4,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": false,
-        "divider": false
-      }
-    },
     "text_and_image_HiNtAW": {
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
@@ -859,7 +847,6 @@
     "timer_bar_7fPWPb",
     "main",
     "testimonials_mDWj6i",
-    "featured_collection_zRnJ6y",
     "text_and_image_HiNtAW",
     "advanced_content_WwcBt8",
     "videosglider_UKWUBw",
