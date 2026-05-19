@@ -172,6 +172,29 @@
         "button_link": "",
         "divider": false
       }
+    },
+    "text_and_image_V3ikUy": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/hf_20260518_205643_3abe6a72-047c-4b9f-9603-5437e97d8b78.png",
+        "image_mask": "none",
+        "image2": "shopify://shop_images/ChatGPT_Image_18_mei_2026_22_59_25.png",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Our Story — Charlotte & Grace Boutique",
+        "text": "<p>25 years ago, Charlotte opened a small boutique in New York with one simple dream: helping women feel beautiful and confident. ✨</p><p>When her daughter Grace turned 16, she began helping in the store after school, and together they turned their shared passion for fashion into something truly special.</p><p>Today, Charlotte & Grace Boutique has grown into a beloved online boutique, but our mission remains the same:<br/><br/>creating elegant, timeless fashion that makes women feel confident every day. 🤍</p><p>Thank you for being part of our journey.</p><p>With love,<br/><br/>Charlotte & Grace ✨</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -179,6 +202,7 @@
     "rich_text_nq8ETM",
     "main-collection",
     "advanced_content_wFKUGb",
+    "text_and_image_V3ikUy",
     "text_with_icons_4EAKzc"
   ]
 }
