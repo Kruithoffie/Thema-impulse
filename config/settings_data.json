@@ -14,6 +14,7 @@
     "color_drawer_text": "#000000",
     "type_product_style": "body",
     "product_save_amount": false,
+    "vendor_enable": false,
     "product_grid_image_size": "portrait",
     "product_grid_image_fill": true,
     "collection_grid_shape": "portrait",
@@ -29,11 +30,6 @@
           "switch_on_hover": true,
           "preselect_variant": false
         }
-      },
-      "6065014864672580889": {
-        "type": "shopify://apps/amp-slide-cart-drawer/blocks/app-embed/0a410b8d-7dc4-4f2d-b4e8-c12d34fd2255",
-        "disabled": false,
-        "settings": {}
       }
     }
   },
