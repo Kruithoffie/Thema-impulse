@@ -26,8 +26,8 @@
           "type": "custom",
           "settings": {
             "show_footer_title": true,
-            "title": "Service clientèle",
-            "text": "<p><strong>Vous avez une question ou besoin d'un conseil ?</strong><br/><br/>N'hésitez pas à nous contacter. Nous sommes là pour vous aider et vous soutenir.<br/><br/><strong>Email: info@maisoneloise.fr</strong><a><br/><strong><br/></strong></a><strong>LUNDI / VENDREDI : 9 h – 18 h</strong><br/><br/><strong>SAMEDI / DIMANCHE : 10 h 00 – 17 h 00</strong></p>",
+            "title": "Customer Service",
+            "text": "<p>Do you have a question or need advice?</p><p>Feel free to contact us — we’re always here to help and support you.</p><p>Email: info@charlottegraceboutique.com</p><p>MONDAY / FRIDAY: 9:00 AM – 6:00 PM<br/>SATURDAY / SUNDAY: 10:00 AM – 5:00 PM</p>",
             "container_width": 30
           }
         },
