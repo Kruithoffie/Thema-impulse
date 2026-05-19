@@ -144,6 +144,14 @@
             "page": ""
           }
         },
+        "tab_VYen7L": {
+          "type": "tab",
+          "settings": {
+            "title": "Loved by 50.000+ American woman",
+            "content": "<p>More than<strong>50,000 customers </strong>trust<strong>Charlotte & Grace</strong>, with an average rating of<strong>4.6 out of 5 stars</strong>. Your satisfaction and confidence mean everything to us.</p>",
+            "page": ""
+          }
+        },
         "selluxe_followers_T9XW6r": {
           "type": "selluxe_followers",
           "settings": {
@@ -172,6 +180,7 @@
         "6fbafccd-e300-4684-a364-9c3fb056e3f9",
         "tab",
         "f9420f3c-75d6-4aa6-96b3-4ed76131dc4e",
+        "tab_VYen7L",
         "selluxe_followers_T9XW6r"
       ],
       "custom_css": [
