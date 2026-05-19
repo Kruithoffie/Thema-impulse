@@ -24,28 +24,28 @@
         "heading_AiJcPx": {
           "type": "heading",
           "settings": {
-            "title": "SOLDES ANNIVERSAIRES – NOUS CÉLÉBRONS 10 ANS DE STYLE"
+            "title": "CELEBRATING 25 YEARS WITH YOU"
           }
         },
         "text_NQGAxw": {
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>Ce mois-ci, <strong>Maison Éloise</strong> célèbre 10 ans de mode, de passion et de moments inoubliables. Depuis une décennie, nous créons des pièces intemporelles conçues pour que chaque femme se sente confiante, à l'aise et naturellement élégante.</p><p>Pour vous remercier de nous accompagner dans notre aventure, nous vous proposons des réductions anniversaire <strong>exclusives sur nos articles</strong> les plus appréciés.<br/><br/>Célébrez avec nous et faites de cette saison un moment inoubliable. ✨</p>"
+            "text": "<p>For 25 years, Charlotte & Grace Boutique has been built with love, passion, and timeless fashion for women who want to feel confident and elegant every day.</p><p>As a thank you for being part of our journey, enjoy up to 70% OFF + extra savings:</p>"
           }
         },
         "text_ANmYeB": {
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<ul><li><strong>10 % SUPPLÉMENTAIRES SUR 2 ARTICLES</strong></li><li><strong>15 % SUPPLÉMENTAIRES SUR 3 ARTICLES</strong></li><li><strong>20 % SUPPLÉMENTAIRES SUR 4 ARTICLES</strong></li><li><strong>25 % SUPPLÉMENTAIRES SUR 5 ARTICLES OU PLUS</strong></li></ul>"
+            "text": "<p><strong>2 items = 10% EXTRA OFF<br/>3 items = 15% EXTRA OFF<br/>4 items = 20% EXTRA OFF<br/>5 items = 25% EXTRA OFF</strong></p>"
           }
         },
         "text_kfQHiJ": {
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>Les réductions s'appliquent automatiquement lors du paiement. Combinez librement tous les articles de nos collections Anniversaire.</p>"
+            "text": "<p>With love ♥<br/>— Charlotte & Grace Boutique</p>"
           }
         }
       },
@@ -105,7 +105,6 @@
         "image_YkgVKP": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/hf_20260310_212512_4ba8d623-767c-443d-b3d8-71b6f0c2ac00.jpg",
             "link": "",
             "width": "33%",
             "alignment": "center"
