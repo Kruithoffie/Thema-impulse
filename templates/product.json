@@ -681,6 +681,7 @@
         "question_t4YRrf",
         "question_fTgniy"
       ],
+      "disabled": true,
       "name": "t:sections.faq.presets.faq.name",
       "settings": {
         "title": "Questions fréquentes"
