@@ -163,6 +163,14 @@
             "image_size": 40,
             "horizontal_alignment": "flex-start"
           }
+        },
+        "kiwi_size_chart_recommender_kiwi_sizing_PJYc48": {
+          "type": "shopify://apps/kiwi-size-chart-recommender/blocks/kiwiSizing/b7369922-bf15-44ce-a121-a22a8fcbc4b0",
+          "settings": {
+            "fallbackToBlockPosition": false,
+            "waitForElementSelector": "",
+            "waitForElementDelay": 5
+          }
         }
       },
       "block_order": [
@@ -182,7 +190,8 @@
         "tab",
         "f9420f3c-75d6-4aa6-96b3-4ed76131dc4e",
         "tab_VYen7L",
-        "selluxe_followers_T9XW6r"
+        "selluxe_followers_T9XW6r",
+        "kiwi_size_chart_recommender_kiwi_sizing_PJYc48"
       ],
       "custom_css": [
         ".badge {display: none;}"
