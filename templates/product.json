@@ -752,38 +752,38 @@
         "color_text": "#1c1d1d"
       }
     },
-    "text_with_icons_Q8WN8G": {
+    "text_with_icons_BRagRq": {
       "type": "text-with-icons",
       "blocks": {
-        "text_block_VX9WRH": {
+        "text_block_EMMUd8": {
           "type": "text_block",
           "settings": {
             "icon": "calendar",
-            "title": "GARANTIE DE REMBOURSEMENT DE 30 JOURS",
-            "text": "<p>Nous offrons un délai de retour de 30 jours. N'hésitez pas à retourner tout article dans les 30 jours si vous n'êtes pas entièrement satisfait.</p>"
+            "title": "30-DAY MONEY-BACK GUARANTEE",
+            "text": "<p>We offer a 30-day return policy. Please feel free to return any item within 30 days if you are not completely satisfied.</p>"
           }
         },
-        "text_block_y8JL7C": {
+        "text_block_WRQeYg": {
           "type": "text_block",
           "settings": {
             "icon": "truck",
-            "title": "LIVRAISON GRATUITE",
-            "text": "<p>Nous offrons la livraison gratuite, suivi inclus. </p>"
+            "title": "FREE SHIPPING",
+            "text": "<p>We offer free shipping, including tracking. </p>"
           }
         },
-        "text_block_3RhBVg": {
+        "text_block_cPUY3i": {
           "type": "text_block",
           "settings": {
             "icon": "shield",
-            "title": "PAIEMENT SÉCURISÉ",
-            "text": "<p>Chez <strong>Maison Éloise</strong>, vous pouvez régler votre commande en toute sécurité et facilement par carte de crédit.</p>"
+            "title": "SECURE PAYMENT",
+            "text": "<p>At Charlotte & Grace, you can pay for your order securely and easily by credit card.</p>"
           }
         }
       },
       "block_order": [
-        "text_block_VX9WRH",
-        "text_block_y8JL7C",
-        "text_block_3RhBVg"
+        "text_block_EMMUd8",
+        "text_block_WRQeYg",
+        "text_block_cPUY3i"
       ],
       "settings": {
         "title": "",
@@ -861,7 +861,7 @@
     "collection-return",
     "faq_N9hAPP",
     "testimonials_XJpjRp",
-    "text_with_icons_Q8WN8G",
+    "text_with_icons_BRagRq",
     "1759238496adc47e65",
     "ss_social_proof_TGDf48",
     "1762200657c7584203"
