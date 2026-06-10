@@ -48,7 +48,7 @@
         ".announcement-bar {font-size: 12px !important; /* Pas aan naar gewenste grootte */}"
       ],
       "settings": {
-        "announcement_compact": true
+        "announcement_compact": false
       }
     },
     "scrolling_announcement_bar_9pcDe6": {
