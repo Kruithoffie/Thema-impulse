@@ -106,7 +106,7 @@
         "text_color": "#ffffff",
         "bg": "#000000",
         "hover_opacity": 0,
-        "padding_vertical": 0.7,
+        "padding_vertical": 0.8,
         "padding_horizontal": 0
       }
     },
