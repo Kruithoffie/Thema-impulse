@@ -100,7 +100,7 @@
         "ss_font_family": "passion_one_n4",
         "text_size": 18,
         "link": "",
-        "animation_duration": 160,
+        "animation_duration": 150,
         "animation_direction": "left",
         "pause_hover": false,
         "text_color": "#ffffff",
