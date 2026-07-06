@@ -174,7 +174,9 @@
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
+        "image": "shopify://shop_images/hf_20260330_200057_3972c635-0d78-460a-898c-96a94458a9e1.png",
         "image_mask": "none",
+        "image2": "shopify://shop_images/hf_20260330_195854_c3e9042e-6caf-4812-ae79-ff33d65aac92.png",
         "image2_mask": "none",
         "subtitle": "",
         "title": "Conoce Reina Moda",
