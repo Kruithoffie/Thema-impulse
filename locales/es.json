@@ -330,7 +330,7 @@
       "quantity": "Cantidad",
       "add_to_cart": "Agregar al carrito",
       "preorder": "Hacer un pedido",
-      "include_taxes": "Impuesto incluido.",
+      "include_taxes": "",
       "shipping_policy_html": "Los <a href='{{ link }}'>gastos de envío</a> se calculan en la pantalla de pagos.",
       "will_not_ship_until": "Será enviado después {{ date }}",
       "will_be_in_stock_after": "Estará disponible después {{ date }}",
