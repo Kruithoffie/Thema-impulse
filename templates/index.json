@@ -150,7 +150,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Muy de moda ahora mismo",
-        "home_featured_products": "exclusive-dresses",
+        "home_featured_products": "vestidos",
         "per_row": 4,
         "rows": 1,
         "mobile_scrollable": true,
@@ -162,7 +162,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Vestidos V - Linea",
-        "home_featured_products": "exclusive-dresses",
+        "home_featured_products": "vestidos-v-linea",
         "per_row": 4,
         "rows": 1,
         "mobile_scrollable": true,
