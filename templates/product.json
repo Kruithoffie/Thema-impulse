@@ -260,6 +260,19 @@
         "color_text": "#1c1d1d"
       }
     },
+    "featured_collection_RM3Jy3": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "settings": {
+        "title": "Vestidos V Linea",
+        "home_featured_products": "vestidos-v-linea",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
     "text_and_image_qFyxHC": {
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
@@ -830,25 +843,13 @@
         "full_width": false,
         "space_around": true
       }
-    },
-    "featured_collection_RM3Jy3": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.featured_collection.name",
-      "settings": {
-        "title": "Vestidos V Linea",
-        "home_featured_products": "vestidos-v-linea",
-        "per_row": 4,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
-      }
     }
   },
   "order": [
     "timer_bar_7fPWPb",
     "main",
     "testimonials_btbHfM",
+    "featured_collection_RM3Jy3",
     "text_and_image_qFyxHC",
     "advanced_content_WwcBt8",
     "videosglider_UKWUBw",
@@ -863,7 +864,6 @@
     "text_with_icons_BRagRq",
     "1759238496adc47e65",
     "ss_social_proof_TGDf48",
-    "1762200657c7584203",
-    "featured_collection_RM3Jy3"
+    "1762200657c7584203"
   ]
 }
