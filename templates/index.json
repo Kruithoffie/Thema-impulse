@@ -117,7 +117,7 @@
       ],
       "name": "t:sections.featured-collections.presets.collection_list.name",
       "settings": {
-        "title": "Our most shopped collections",
+        "title": "Las colecciones más populares",
         "divider": false,
         "per_row": 4,
         "enable_gutter": true
