@@ -200,9 +200,10 @@
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>I emailed customer service because I accidentally entered the wrong apartment number. They replied the same day and fixed it before shipping. Really appreciated how easy they made everything</p>",
-            "author": "Denise",
-            "author_info": ""
+            "testimonial": "<p>El pedido llegó en un embalaje cuidado y en perfecto estado. Se nota realmente la calidad del tejido...</p>",
+            "image": "shopify://shop_images/77.png",
+            "author": "Carmen López",
+            "author_info": "Madrid – Hace 12 horas"
           }
         },
         "testimonial_YkKYkq": {
