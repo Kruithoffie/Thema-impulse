@@ -191,71 +191,66 @@
         "product_video_style": "muted"
       }
     },
-    "testimonials_mDWj6i": {
+    "testimonials_btbHfM": {
       "type": "testimonials",
       "blocks": {
-        "testimonial_qkdHDD": {
+        "testimonial_myt6Fh": {
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>I emailed customer service because I accidentally entered the wrong apartment number. They replied the same day and fixed it before shipping. Really appreciated how easy they made everything</p>",
-            "author": "Denise",
-            "author_info": ""
+            "testimonial": "<p>El pedido llegó en un embalaje cuidado y en perfecto estado. Se nota realmente la calidad del tejido...</p>",
+            "image": "shopify://shop_images/77.png",
+            "author": "Carmen López",
+            "author_info": "Madrid – Hace 12 horas"
           }
         },
-        "testimonial_89rrik": {
+        "testimonial_tqWKTH": {
           "type": "testimonial",
           "settings": {
             "icon": "4-stars",
-            "testimonial": "<p>The shipping took a couple days longer than I expected, but the quality made up for it. The blouse I ordered feels much more expensive than it was. I already bookmarked a few more items for summer.</p>",
-            "author": "Sharon",
-            "author_info": ""
+            "testimonial": "<p>Excelente servicio por parte de Reina Moda. Las prendas quedan perfectas y ese toque personal marca realmente la diferencia</p>",
+            "image": "shopify://shop_images/78.png",
+            "author": "Paula Gómez",
+            "author_info": "Barcelona – Hace 1 día"
           }
         },
-        "testimonial_F9JjqL": {
+        "testimonial_x3nMeM": {
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>I struggle finding clothes that feel stylish without looking too young for me. Charlotte & Grace somehow has that balance. Elegant, comfortable, and flattering without trying too hard.</p>",
-            "author": "Cynthia",
-            "author_info": ""
+            "testimonial": "<p>Me ha impresionado mucho la atención al detalle. Todo estaba cuidadosamente empaquetado, olía de maravilla y estaba listo para ponerse. </p>",
+            "image": "shopify://shop_images/79.png",
+            "author": "Marta Ruiz",
+            "author_info": "Valencia – Hace 2 días"
           }
         },
-        "testimonial_chUmtU": {
+        "testimonial_64bQw6": {
           "type": "testimonial",
           "settings": {
             "icon": "4-stars",
-            "testimonial": "<p>The first size I ordered didn’t fit the way I wanted, but exchanging it was surprisingly simple. Customer support answered quickly and helped me choose the correct size. The new one fits perfectly</p>",
-            "author": "Rebecca",
-            "author_info": ""
+            "testimonial": "<p>¡Una experiencia fantástica! Los artículos son de gran calidad y se nota que la tienda se preocupa de verdad por sus clientes</p>",
+            "image": "shopify://shop_images/80.png",
+            "author": "Ana Torres",
+            "author_info": "Sevilla – Hace 3 días"
           }
         },
-        "testimonial_Fwmxf8": {
+        "testimonial_H6FzwQ": {
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>I wore one of their maxi dresses to my friend’s birthday dinner and got compliments all night. The fit around the waist was super flattering and the material moved beautifully when walking.</p>",
-            "author": "Angela",
-            "author_info": ""
-          }
-        },
-        "testimonial_PKCERp": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "4-stars",
-            "testimonial": "<p>I wish they had even more colors available in some styles because the set I bought is incredibly comfortable. It’s one of those outfits you end up reaching for constantly</p>",
-            "author": "Melissa",
-            "author_info": ""
+            "testimonial": "<p>Mi paquete llegó en perfecto estado y estaba muy bien presentado. Reina Moda hace que las compras online sean realmente personalizadas</p>",
+            "image": "shopify://shop_images/81.png",
+            "author": "Sofía Martínez",
+            "author_info": "Málaga – Hace 5 días"
           }
         }
       },
       "block_order": [
-        "testimonial_qkdHDD",
-        "testimonial_89rrik",
-        "testimonial_F9JjqL",
-        "testimonial_chUmtU",
-        "testimonial_Fwmxf8",
-        "testimonial_PKCERp"
+        "testimonial_myt6Fh",
+        "testimonial_tqWKTH",
+        "testimonial_x3nMeM",
+        "testimonial_64bQw6",
+        "testimonial_H6FzwQ"
       ],
       "settings": {
         "title": "What customers are saying about Charlotte & Grace Boutique",
@@ -838,7 +833,7 @@
   "order": [
     "timer_bar_7fPWPb",
     "main",
-    "testimonials_mDWj6i",
+    "testimonials_btbHfM",
     "text_and_image_nC7gi4",
     "advanced_content_WwcBt8",
     "videosglider_UKWUBw",
