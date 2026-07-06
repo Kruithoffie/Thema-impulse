@@ -55,7 +55,7 @@
             "tp_star_color": "#00b77f",
             "tp_rating": 4.5,
             "tp_reviews": 0,
-            "review_text": "4.6 / 5 based on 12,500+ reviews"
+            "review_text": "4,7 sobre 7 500+"
           }
         },
         "price": {
@@ -155,21 +155,12 @@
         "selluxe_followers_T9XW6r": {
           "type": "selluxe_followers",
           "settings": {
-            "profile_picture_1": "shopify://shop_images/Scherm_afbeelding_2026-05-19_om_13.50.11.png",
             "reviewers": "Brooke Burke",
             "show_verified": true,
             "add_text": "and <strong>50k+</strong> other women like <strong>Charlotte & Grace Boutique</strong>",
             "font_size": 14,
             "image_size": 40,
             "horizontal_alignment": "flex-start"
-          }
-        },
-        "kiwi_size_chart_recommender_kiwi_sizing_PJYc48": {
-          "type": "shopify://apps/kiwi-size-chart-recommender/blocks/kiwiSizing/b7369922-bf15-44ce-a121-a22a8fcbc4b0",
-          "settings": {
-            "fallbackToBlockPosition": false,
-            "waitForElementSelector": "",
-            "waitForElementDelay": 5
           }
         }
       },
@@ -190,8 +181,7 @@
         "tab",
         "f9420f3c-75d6-4aa6-96b3-4ed76131dc4e",
         "tab_VYen7L",
-        "selluxe_followers_T9XW6r",
-        "kiwi_size_chart_recommender_kiwi_sizing_PJYc48"
+        "selluxe_followers_T9XW6r"
       ],
       "custom_css": [
         ".badge {display: none;}"
@@ -287,9 +277,7 @@
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
-        "image": "shopify://shop_images/hf_20260518_205643_3abe6a72-047c-4b9f-9603-5437e97d8b78.png",
         "image_mask": "none",
-        "image2": "shopify://shop_images/ChatGPT_Image_18_mei_2026_22_59_25.png",
         "image2_mask": "none",
         "subtitle": "",
         "title": "Our Story — Charlotte & Grace Boutique",
