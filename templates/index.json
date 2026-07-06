@@ -203,7 +203,7 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Very popular right now",
+        "title": "Muy de moda ahora mismo",
         "home_featured_products": "exclusive-dresses",
         "per_row": 4,
         "rows": 1,
