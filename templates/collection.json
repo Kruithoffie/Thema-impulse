@@ -130,56 +130,11 @@
         "lazyload_images": true
       }
     },
-    "text_with_icons_4EAKzc": {
-      "type": "text-with-icons",
-      "blocks": {
-        "text_block_TmDHLD": {
-          "type": "text_block",
-          "settings": {
-            "icon": "calendar",
-            "title": "30-DAY MONEY-BACK GUARANTEE",
-            "text": "<p>We offer a 30-day return policy. Please feel free to return any item within 30 days if you are not completely satisfied.</p>"
-          }
-        },
-        "text_block_NdCgmc": {
-          "type": "text_block",
-          "settings": {
-            "icon": "truck",
-            "title": "FREE SHIPPING",
-            "text": "<p>We offer free shipping, including tracking. </p>"
-          }
-        },
-        "text_block_wqnjy6": {
-          "type": "text_block",
-          "settings": {
-            "icon": "shield",
-            "title": "SECURE PAYMENT",
-            "text": "<p>At Charlotte & Grace, you can pay for your order securely and easily by credit card.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_block_TmDHLD",
-        "text_block_NdCgmc",
-        "text_block_wqnjy6"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "desktop_columns_per_row": 4,
-        "icon_color": "#000000",
-        "button_label": "",
-        "button_link": "",
-        "divider": false
-      }
-    },
     "text_and_image_V3ikUy": {
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
-        "image": "shopify://shop_images/hf_20260518_205643_3abe6a72-047c-4b9f-9603-5437e97d8b78.png",
         "image_mask": "none",
-        "image2": "shopify://shop_images/ChatGPT_Image_18_mei_2026_22_59_25.png",
         "image2_mask": "none",
         "subtitle": "",
         "title": "Our Story — Charlotte & Grace Boutique",
@@ -195,6 +150,49 @@
         "bottom_padding": true,
         "lazyload_images": true
       }
+    },
+    "text_with_icons_dpUMEA": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_Bz9aUk": {
+          "type": "text_block",
+          "settings": {
+            "icon": "calendar",
+            "title": "GARANTÍA DE REEMBOLSO DE 30 DÍAS",
+            "text": "<p>Ofrecemos un plazo de devolución de 30 días. No dude en devolver cualquier artículo en un plazo de 30 días si no está completamente satisfecho.</p>"
+          }
+        },
+        "text_block_YD8Rgg": {
+          "type": "text_block",
+          "settings": {
+            "icon": "truck",
+            "title": "ENVÍO GRATUITO",
+            "text": "<p>Ofrecemos envío gratuito con seguimiento incluido. </p>"
+          }
+        },
+        "text_block_mUpUT8": {
+          "type": "text_block",
+          "settings": {
+            "icon": "shield",
+            "title": "PAGO SEGURO",
+            "text": "<p>En Reina Moda, puede pagar su pedido de forma segura y sencilla con tarjeta de crédito.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_Bz9aUk",
+        "text_block_YD8Rgg",
+        "text_block_mUpUT8"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
     }
   },
   "order": [
@@ -203,6 +201,6 @@
     "main-collection",
     "advanced_content_wFKUGb",
     "text_and_image_V3ikUy",
-    "text_with_icons_4EAKzc"
+    "text_with_icons_dpUMEA"
   ]
 }
