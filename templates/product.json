@@ -131,8 +131,8 @@
         "tab": {
           "type": "tab",
           "settings": {
-            "title": "Shipping & Delivery",
-            "content": "<p>At <strong>Charlotte & Grace</strong>, your satisfaction always comes first.</p><p>We believe in keeping you informed every step of the way — from the moment you place your order to the day it arrives.</p><p>Enjoy <strong>free shipping</strong> on every purchase, delivered safely and reliably with <strong>UPS</strong>.</p>",
+            "title": "Envío gratuito",
+            "content": "<p>Ofrecemos envío gratuito en toda España para todos los pedidos. Enviamos nuestros paquetes con un código de seguimiento para que siempre pueda seguir su pedido. Recibirá el código de seguimiento por correo electrónico dentro de 1 a 24 horas después de su pedido.</p>",
             "page": ""
           }
         },
