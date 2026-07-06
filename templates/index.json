@@ -326,6 +326,52 @@
         "ai_gen_block_0c6f514_FzV3Kw"
       ],
       "settings": {}
+    },
+    "17833490635eaf2f36": {
+      "type": "apps",
+      "blocks": {
+        "revoq_eu_withdrawal_button_widerrufsbutton_form_8VTebr": {
+          "type": "shopify://apps/revoq-eu-withdrawal-button/blocks/widerrufsbutton-form/019c3356-2775-7d52-b915-4b0f965005ae",
+          "settings": {
+            "button_shape": "rounded",
+            "button_size": "medium",
+            "button_variant": "filled",
+            "button_color": "#111827",
+            "button_text_color": "#ffffff",
+            "button_border_color": "#111827",
+            "button_border_width": 1,
+            "card_style": "boxed",
+            "card_shape": "rounded",
+            "input_shape": "rounded",
+            "field_spacing": 10,
+            "max_width": 760,
+            "section_padding": 24,
+            "text_color": "#111827",
+            "secondary_text_color": "#6b7280",
+            "input_background_color": "#ffffff",
+            "name_placeholder": "-",
+            "order_placeholder": "-",
+            "show_heading": true,
+            "heading_text": "-",
+            "show_section_heading": true,
+            "section_heading_text": "-",
+            "show_subheading": true,
+            "subheading_text": "-",
+            "show_order_hint": true,
+            "order_hint_text": "-",
+            "show_email_hint": true,
+            "show_privacy_notice": true,
+            "email_hint_text": "-"
+          }
+        }
+      },
+      "block_order": [
+        "revoq_eu_withdrawal_button_widerrufsbutton_form_8VTebr"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
     }
   },
   "order": [
@@ -336,6 +382,7 @@
     "featured_collection_QmXNdh",
     "text_and_image_nfpwGg",
     "testimonials_phxWgR",
-    "1779138252723431f8"
+    "1779138252723431f8",
+    "17833490635eaf2f36"
   ]
 }
