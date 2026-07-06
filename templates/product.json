@@ -745,24 +745,24 @@
           "type": "text_block",
           "settings": {
             "icon": "calendar",
-            "title": "30-DAY MONEY-BACK GUARANTEE",
-            "text": "<p>We offer a 30-day return policy. Please feel free to return any item within 30 days if you are not completely satisfied.</p>"
+            "title": "GARANTÍA DE REEMBOLSO DE 30 DÍAS",
+            "text": "<p>Ofrecemos un plazo de devolución de 30 días. No dude en devolver cualquier artículo en un plazo de 30 días si no está completamente satisfecho.</p>"
           }
         },
         "text_block_WRQeYg": {
           "type": "text_block",
           "settings": {
             "icon": "truck",
-            "title": "FREE SHIPPING",
-            "text": "<p>We offer free shipping, including tracking. </p>"
+            "title": "ENVÍO GRATUITO",
+            "text": "<p>Ofrecemos envío gratuito con seguimiento incluido. </p>"
           }
         },
         "text_block_cPUY3i": {
           "type": "text_block",
           "settings": {
             "icon": "shield",
-            "title": "SECURE PAYMENT",
-            "text": "<p>At Charlotte & Grace, you can pay for your order securely and easily by credit card.</p>"
+            "title": "PAGO SEGURO",
+            "text": "<p>En Reina Moda, puede pagar su pedido de forma segura y sencilla con tarjeta de crédito.</p>"
           }
         }
       },
