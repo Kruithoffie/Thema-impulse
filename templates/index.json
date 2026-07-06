@@ -45,34 +45,6 @@
         "lazyload_images": true
       }
     },
-    "rich-text": {
-      "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "title": "Winter Collection"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": false,
-            "text": "<p>At <strong>Ava & Lily Toronto</strong>, we are already embracing the brand-new Winter collection. We make sure to always provide high-quality products and stylish choices, so you can step into the season looking your best in the latest trends.</p><p>Browse our products below and explore the full collections.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text"
-      ],
-      "disabled": true,
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
-      }
-    },
     "featured_collections_cfHkr4": {
       "type": "featured-collections",
       "blocks": {
@@ -115,6 +87,7 @@
         "collection_XQTnUH",
         "collection_4yYLFg"
       ],
+      "disabled": true,
       "name": "t:sections.featured-collections.presets.collection_list.name",
       "settings": {
         "title": "Las colecciones más populares",
@@ -156,6 +129,7 @@
       "blocks": {
         "ai_gen_block_523425b_pnqJn4": {
           "type": "ai_gen_block_523425b",
+          "disabled": true,
           "settings": {
             "max_width": 1200,
             "padding_top": 48,
@@ -204,6 +178,18 @@
       "type": "featured-collection",
       "settings": {
         "title": "Muy de moda ahora mismo",
+        "home_featured_products": "exclusive-dresses",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "featured_collection_QmXNdh": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Vestidos V - Linea",
         "home_featured_products": "exclusive-dresses",
         "per_row": 4,
         "rows": 1,
@@ -375,11 +361,11 @@
   },
   "order": [
     "slideshow",
-    "rich-text",
     "featured_collections_cfHkr4",
     "rich_text_qLAWJB",
     "1779129197d0b5acf0",
     "featured-collection",
+    "featured_collection_QmXNdh",
     "text_and_image_nfpwGg",
     "testimonials_phxWgR",
     "1779138252723431f8"
