@@ -44,6 +44,7 @@
         "announcement_U3Tzjd",
         "announcement_rJUdAk"
       ],
+      "disabled": true,
       "custom_css": [
         ".announcement-bar {font-size: 12px !important; /* Pas aan naar gewenste grootte */}"
       ],
@@ -57,31 +58,25 @@
         "text_VGKLQR": {
           "type": "text",
           "settings": {
-            "text": "STOCK LIMITÉ, UNE FOIS ÉPUISÉ, C'EST FINI"
+            "text": "STOCK LIMITADO: UNA VEZ AGOTADO, SE ACABA"
           }
         },
         "text_Y9bkwP": {
           "type": "text",
           "settings": {
-            "text": "GARANTIE DE RETOUR DE 30 JOURS"
+            "text": "GARANTÍA DE DEVOLUCIÓN DE 30 DÍAS"
           }
         },
         "text_JxxYDD": {
           "type": "text",
           "settings": {
-            "text": "LIVRAISON PREMIUM TOUJOURS GRATUITE"
+            "text": "ENVÍO PREMIUM SIEMPRE GRATIS"
           }
         },
         "text_qCeRRG": {
           "type": "text",
           "settings": {
-            "text": "COMMANDEZ AVANT 23H00, EXPÉDIÉ LE LENDEMAIN"
-          }
-        },
-        "text_KeRyka": {
-          "type": "text",
-          "settings": {
-            "text": "LA VENTE ANNIVERSAIRE SE TERMINE CE SOIR À 23H59"
+            "text": "REBAJAS DE MEDIA TEMPORADA – TERMINA HOY A LAS 23:59"
           }
         }
       },
@@ -89,10 +84,8 @@
         "text_VGKLQR",
         "text_Y9bkwP",
         "text_JxxYDD",
-        "text_qCeRRG",
-        "text_KeRyka"
+        "text_qCeRRG"
       ],
-      "disabled": true,
       "name": "Scrolling announcement bar",
       "settings": {
         "insert_css_class_target": "",
@@ -116,7 +109,6 @@
         "header-0": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/NOUVELL.png",
             "desktop_logo_width": 320,
             "mobile_logo_width": 200
           }
