@@ -147,6 +147,7 @@
         "selluxe_followers_T9XW6r": {
           "type": "selluxe_followers",
           "settings": {
+            "profile_picture_1": "shopify://shop_images/download.jpg",
             "reviewers": "María Pombo",
             "show_verified": true,
             "add_text": "y más de <strong>7.5k+</strong> otras mujeres aman <strong>Reina Moda</strong>",
