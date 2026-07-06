@@ -830,6 +830,19 @@
         "full_width": false,
         "space_around": true
       }
+    },
+    "featured_collection_RM3Jy3": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "settings": {
+        "title": "Vestidos V Linea",
+        "home_featured_products": "vestidos-v-linea",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -850,6 +863,7 @@
     "text_with_icons_BRagRq",
     "1759238496adc47e65",
     "ss_social_proof_TGDf48",
-    "1762200657c7584203"
+    "1762200657c7584203",
+    "featured_collection_RM3Jy3"
   ]
 }
