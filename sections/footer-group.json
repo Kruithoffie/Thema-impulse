@@ -26,8 +26,8 @@
           "type": "custom",
           "settings": {
             "show_footer_title": true,
-            "title": "Customer Service",
-            "text": "<p>Do you have a question or need advice?</p><p>Feel free to contact us — we’re always here to help and support you.</p><p>Email: info@charlottegraceboutique.com</p><p>MONDAY / FRIDAY: 9:00 AM – 6:00 PM<br/>SATURDAY / SUNDAY: 10:00 AM – 5:00 PM</p>",
+            "title": "Atención al cliente",
+            "text": "<p><strong>¿Tienes alguna pregunta o necesitas un consejo?</strong><br/><br/>No dude en ponerse en contacto con nosotros. Estamos aquí para ayudarle y apoyarle.<br/><br/><strong>Email: info@Reina-moda.com</strong><a><br/><strong><br/></strong></a><strong>LUNES / VIERNES: 9:00 – 18:00</strong><br/><br/><strong>SÁBADO / DOMINGO: 10:00 – 17:00</strong></p>",
             "container_width": 30
           }
         },
@@ -35,8 +35,8 @@
           "type": "custom",
           "settings": {
             "show_footer_title": true,
-            "title": "Charlotte & Grace Boutique",
-            "text": "<p>✔ We have proudly offered outstanding customer service for decades.<br/>✔ Over 25 years of experience in the fashion industry.<br/>✔ Free shipping with tracking on every order.<br/></p>",
+            "title": "Reina Moda",
+            "text": "<p>✔ Llevamos décadas ofreciendo el mejor servicio de atención al cliente.<br/><br/>✔ Más de 10 años de experiencia en el sector de la moda.<br/><br/>✔ Envío gratuito con seguimiento para cada pedido.<br/><br/></p>",
             "container_width": 30
           }
         },
@@ -44,7 +44,7 @@
           "type": "menu",
           "settings": {
             "show_footer_title": false,
-            "menu": "informacje",
+            "menu": "",
             "container_width": 25
           }
         }
