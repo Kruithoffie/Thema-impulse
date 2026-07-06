@@ -89,7 +89,7 @@
       "name": "Scrolling announcement bar",
       "settings": {
         "insert_css_class_target": "",
-        "text_custom": true,
+        "text_custom": false,
         "ss_font_family": "poppins_n7",
         "text_size": 18,
         "link": "",
