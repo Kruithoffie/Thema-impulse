@@ -16,17 +16,17 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "CELEBRATE OUR 25TH ANNIVERSARY",
+            "title": "REBAJAS DE VERANO",
             "title_size": 60,
-            "subheading": "UP TO 70% OFF",
+            "subheading": "Hasta un 70 % de descuento",
             "link": "",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify://shop_images/hf_20260518_181031_3aaec43d-66d3-4683-ae5b-308a270691ab.png",
-            "image_mobile": "shopify://shop_images/hf_20260518_180908_4b4ed5c0-5753-4158-a86f-06ea6cd15994.png",
+            "image": "shopify://shop_images/hf_20260330_183028_0fd071be-eb2f-4891-9c98-982cc7acc479.png",
+            "image_mobile": "shopify://shop_images/hf_20260330_183040_2b20d424-2cda-4f81-b8f8-5e302c8d79d8.png",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -216,9 +216,7 @@
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
-        "image": "shopify://shop_images/hf_20260518_205643_3abe6a72-047c-4b9f-9603-5437e97d8b78.png",
         "image_mask": "none",
-        "image2": "shopify://shop_images/ChatGPT_Image_18_mei_2026_22_59_25.png",
         "image2_mask": "none",
         "subtitle": "",
         "title": "Our Story — Charlotte & Grace Boutique",
