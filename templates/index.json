@@ -96,34 +96,6 @@
         "enable_gutter": true
       }
     },
-    "rich_text_qLAWJB": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_6PyQbk": {
-          "type": "heading",
-          "settings": {
-            "title": "CELEBRATING 25 YEARS WITH YOU"
-          }
-        },
-        "text_hxzxUg": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Twenty-five years ago, Charlotte & Grace Boutique began as a small dream shared between a mother and daughter. What started as a passion for timeless fashion slowly grew into a boutique filled with wonderful women, beautiful memories, and styles we truly love.</p><p>This anniversary sale is our way of saying thank you for being part of our journey over the past 25 years.</p><p>To celebrate this special milestone, enjoy up to <strong>70% OFF</strong> our most loved collections for a limited time.</p><p>Every piece is chosen with the same care and passion we started with all those years ago — to help women feel confident, elegant, and comfortable every day.</p><p>With love ♥<br/><br/>— Charlotte & Grace Boutique</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_6PyQbk",
-        "text_hxzxUg"
-      ],
-      "name": "t:sections.rich-text.presets.rich_text.name",
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
-      }
-    },
     "1779129197d0b5acf0": {
       "type": "_blocks",
       "blocks": {
@@ -205,8 +177,8 @@
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "",
-        "title": "Our Story — Charlotte & Grace Boutique",
-        "text": "<p>25 years ago, Charlotte opened a small boutique in New York with one simple dream: helping women feel beautiful and confident. ✨</p><p>When her daughter Grace turned 16, she began helping in the store after school, and together they turned their shared passion for fashion into something truly special.</p><p>Today, Charlotte & Grace Boutique has grown into a beloved online boutique, but our mission remains the same:<br/><br/>creating elegant, timeless fashion that makes women feel confident every day. 🤍</p><p>Thank you for being part of our journey.</p><p>With love,<br/><br/>Charlotte & Grace ✨</p>",
+        "title": "Conoce Reina Moda",
+        "text": "<p>En Reina Moda, todo comienza con una pasión compartida por el estilo atemporal y la elegancia moderna. Desde muy jóvenes, las fundadoras de Reina Moda se inspiraron en la moda, la creatividad y la confianza en sí mismas que surge de sentirse bien con una misma. Tras estudiar diseño de moda y administración de empresas, ambas adquirieron experiencia en diversas marcas de toda España.<br/><br/>Años más tarde, decidieron unir sus visiones y fundar su propia tienda, que celebra el estilo natural y la individualidad. Hoy en día, Reina Moda es más que una simple marca de moda: es una comunidad basada en la calidad, la comodidad y la confianza en una misma.<br/><br/>Su misión sigue siendo sencilla: estar a la vanguardia de las nuevas tendencias, ofrecer artículos de alta calidad y hacer que cada mujer se sienta especial, valorada y elegante a su manera.</p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -362,7 +334,6 @@
   "order": [
     "slideshow",
     "featured_collections_cfHkr4",
-    "rich_text_qLAWJB",
     "1779129197d0b5acf0",
     "featured-collection",
     "featured_collection_QmXNdh",
