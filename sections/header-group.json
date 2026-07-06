@@ -44,7 +44,6 @@
         "announcement_U3Tzjd",
         "announcement_rJUdAk"
       ],
-      "disabled": true,
       "custom_css": [
         ".announcement-bar {font-size: 12px !important; /* Pas aan naar gewenste grootte */}"
       ],
@@ -86,6 +85,7 @@
         "text_JxxYDD",
         "text_qCeRRG"
       ],
+      "disabled": true,
       "name": "Scrolling announcement bar",
       "settings": {
         "insert_css_class_target": "",
