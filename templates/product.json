@@ -260,15 +260,17 @@
         "color_text": "#1c1d1d"
       }
     },
-    "text_and_image_nC7gi4": {
+    "text_and_image_qFyxHC": {
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
+        "image": "shopify://shop_images/hf_20260330_200057_3972c635-0d78-460a-898c-96a94458a9e1.png",
         "image_mask": "none",
+        "image2": "shopify://shop_images/hf_20260330_195854_c3e9042e-6caf-4812-ae79-ff33d65aac92.png",
         "image2_mask": "none",
         "subtitle": "",
-        "title": "Our Story — Charlotte & Grace Boutique",
-        "text": "<p>25 years ago, Charlotte opened a small boutique in New York with one simple dream: helping women feel beautiful and confident. ✨</p><p>When her daughter Grace turned 16, she began helping in the store after school, and together they turned their shared passion for fashion into something truly special.</p><p>Today, Charlotte & Grace Boutique has grown into a beloved online boutique, but our mission remains the same:<br/><br/>creating elegant, timeless fashion that makes women feel confident every day. 🤍</p><p>Thank you for being part of our journey.</p><p>With love,<br/><br/>Charlotte & Grace ✨</p>",
+        "title": "Conoce Reina Moda",
+        "text": "<p>En Reina Moda, todo comienza con una pasión compartida por el estilo atemporal y la elegancia moderna. Desde muy jóvenes, las fundadoras de Reina Moda se inspiraron en la moda, la creatividad y la confianza en sí mismas que surge de sentirse bien con una misma. Tras estudiar diseño de moda y administración de empresas, ambas adquirieron experiencia en diversas marcas de toda España.<br/><br/>Años más tarde, decidieron unir sus visiones y fundar su propia tienda, que celebra el estilo natural y la individualidad. Hoy en día, Reina Moda es más que una simple marca de moda: es una comunidad basada en la calidad, la comodidad y la confianza en una misma.<br/><br/>Su misión sigue siendo sencilla: estar a la vanguardia de las nuevas tendencias, ofrecer artículos de alta calidad y hacer que cada mujer se sienta especial, valorada y elegante a su manera.</p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -834,7 +836,7 @@
     "timer_bar_7fPWPb",
     "main",
     "testimonials_btbHfM",
-    "text_and_image_nC7gi4",
+    "text_and_image_qFyxHC",
     "advanced_content_WwcBt8",
     "videosglider_UKWUBw",
     "testimonials_slider_dKBxHe",
